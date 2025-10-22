@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Wakanda
+has_children: true
 nav_order: 5
 ---
 

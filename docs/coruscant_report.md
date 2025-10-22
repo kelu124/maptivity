@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Coruscant
+has_children: true
 nav_order: 4
 ---
 

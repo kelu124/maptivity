@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Baraddur
+has_children: true
 nav_order: 2
 ---
 

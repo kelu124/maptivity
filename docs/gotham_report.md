@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Gotham
+has_children: true
 nav_order: 1
 ---
 
