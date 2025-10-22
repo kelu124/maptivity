@@ -1,6 +1,12 @@
+---
+layout: default
+title: Gotham
+nav_order: 1
+---
+
 # Neighborhood Assessment Report: Gotham City
 
-## : Overview & Sustainability Profile
+## Overview & Sustainability Profile
 
 ### Neighborhood Snapshot
 **Gotham City** embodies both the struggles and the resilience of a metropolis defined by its juxtaposition of dark alleys and luminous hope. As a center of industry, culture, and crime, Gotham is marked by significant urban challenges, including crime rates that are among the highest in the nation, alongside vibrant arts and community initiatives that demonstrate the spirit of its residents. Spanning approximately 150 square miles along the coast, this city’s geography is characterized by a river cutting through the heart of its industrial legacy and sprawling, diverse neighborhoods.
@@ -16,7 +22,7 @@ Despite progress, efforts related to **climate action and adaptation** face hurd
 
 Importantly, **environmental justice indicators** illustrate disparities; lower-income communities often suffer from the highest pollution exposure and receive fewer resources for climate adaptation. This highlights the need for policies that prioritize equity, ensuring that environmental benefits are shared across all neighborhoods.
 
-## : Economic Drivers & Market Forces
+## Economic Drivers & Market Forces
 
 ### Economic Ecosystem
 Gotham City's **employment landscape** is diverse, with strength in sectors such as finance, technology, healthcare, and the growing creative industries. However, the overall job market struggles with high unemployment rates, particularly among youth and marginalized groups. This disparity appears even more pronounced as neighborhoods like **Crime Alley** experience stunted economic growth. Meanwhile, businesses in **Gotham Heights** thrive and attract young professionals, highlighting economic polarization within the city.
@@ -27,7 +33,7 @@ The **real estate market** is experiencing a mixed climate. In desirable areas, 
 
 Gotham shows signals of **economic transformation**; however, progress is uneven. As the city invests in infrastructure updates and **fiscal health priorities**, there is a cautious optimism about potential job growth stemming from new projects. City officials are advocating for the development of affordable housing as a critical factor for sustainable growth.
 
-## : People & Community Dynamics
+## People & Community Dynamics
 
 ### Demographic Composition
 Gotham's **population trends** indicate a city of approximately 1.6 million residents, with an ebb and flow influenced by internal and external migration patterns. Notably, younger residents are moving in, attracted to new job opportunities and cultural amenities. However, continued out-migration by families seeking safer environments poses a demographic challenge that could impact future neighborhood vitality.

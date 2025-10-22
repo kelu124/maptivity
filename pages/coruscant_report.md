@@ -1,6 +1,12 @@
+---
+layout: default
+title: Coruscant
+nav_order: 4
+---
+
 # Neighborhood Assessment Report: Coruscant
 
-## **: Overview & Sustainability Profile**
+## **Overview & Sustainability Profile**
 
 ### **Neighborhood Snapshot**
 Coruscant, the vibrant capital of the galaxy, is a planet-wide metropolis characterized by its towering skyscrapers, bustling cosmopolitan life, and rich cultural tapestry. As a hub for political, economic, and social activities, Coruscant attracts diverse populations and serves as a critical link in intergalactic commerce. With a dynamic blend of cutting-edge technology and historic landmarks, the neighborhood features an urban landscape that reflects both its heritage and its futuristic aspirations. While the allure of Coruscant's prosperity is evident, the challenges of overpopulation and environmental degradation pose significant hurdles.
@@ -29,7 +35,7 @@ Resilience hubs are being established throughout Coruscant to provide services a
 **Environmental Justice Indicators**  
 Despite these advances, **environmental justice** issues persist in Coruscant, where lower-income communities often face higher exposure to pollutants and less access to green spaces. Reports from local advocacy groups indicate a pressing need for equitable policies that ensure all residents benefit from urban improvements.
 
-## **: Economic Drivers & Market Forces**
+## **Economic Drivers & Market Forces**
 
 ### **Economic Ecosystem**
 **Employment Landscape**  
@@ -44,7 +50,7 @@ The real estate market in Coruscant continues to thrive, fueled by a consistent 
 **Economic Transformation Signals**  
 Emerging trends signal an ongoing economic transformation in Coruscant. The rise of tech industries, particularly in **artificial intelligence** and renewable technologies, hints at a future economy embracing innovation against traditional sectors. Fiscal health remains stable, but reliance on specific industries raises concerns over potential downturns that could affect employment and growth.
 
-## **: People & Community Dynamics**
+## **People & Community Dynamics**
 
 ### **Demographic Composition**
 **Population Trends**  

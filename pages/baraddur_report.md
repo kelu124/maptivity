@@ -1,8 +1,14 @@
+---
+layout: default
+title: Baraddur
+nav_order: 2
+---
+
 # Neighborhood Assessment Report: Barad-dûr, the City of Sauron
 
 
 
-## **: Overview & Sustainability Profile**
+## **Overview & Sustainability Profile**
 
 ### **Neighborhood Snapshot** 
 Barad-dûr, often referred to as the Citadel of Sauron, is a unique and multifaceted urban space where history, power, and creativity converge. With its imposing dark towers and rich tapestry of life, it embodies a complex narrative marked by both grandeur and challenge. This neighborhood is set in the rugged plains of Mordor, characterized by stark volcanic landscapes and a harsh climate. Three defining characteristics include its iconic architecture, predominantly crafted from black stone with intricate carvings, its strategic military significance in Middle-earth, and its eclectic community of inhabitants ranging from scholars to laborers. Physically, Barad-dûr presents an intricate layout with sprawling markets, winding alleyways, and stark contrasts between the opulence of the citadel and the less fortunate areas surrounding it.
@@ -18,7 +24,7 @@ Collective actions have been seeded among community organizations focusing on **
 
 
 
-## **: Economic Drivers & Market Forces**
+## **Economic Drivers & Market Forces**
 
 ### **Economic Ecosystem**
 The **employment landscape** in Barad-dûr is diverse, incorporating elements of both traditional labor and emerging industries. The **primary sectors** include mining, craftsmanship, and trade, which revolve around the resources of Mordor, particularly **ore extraction**. However, there is a noticeable shift towards creative industries such as artifact restoration and cultural tourism, signaling potential economic transformation.
@@ -29,7 +35,7 @@ Despite economic advancements, Barad-dûr is challenged by **fiscal health** iss
 
 
 
-## **: People & Community Dynamics**
+## **People & Community Dynamics**
 
 ### **Demographic Composition**
 Barad-dûr features a vibrant **demographic composition**, with a population of approximately 50,000. Recent trends indicate an increase in younger inhabitants drawn to the city’s unique character and opportunities. The community is culturally diverse, with families from various backgrounds, including Humans, Elves, and Dwarves. This diversity enriches the social fabric, although it also introduces complexities in cultural coexistence.

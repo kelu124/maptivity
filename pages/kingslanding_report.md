@@ -1,6 +1,12 @@
+---
+layout: default
+title: Kingslanding
+nav_order: 3
+---
+
 # Neighborhood Assessment Report: King's Landing
 
-## : Overview & Sustainability Profile
+## Overview & Sustainability Profile
 
 ### Neighborhood Snapshot
 
@@ -26,7 +32,7 @@
 
 **Environmental Justice Indicators:** Despite notable progress, some communities experience disparities in access to green spaces and clean resources. Areas such as Flea Bottom, home to many low-income residents, reveal a stark contrast in living conditions compared to the wealthier districts, highlighting the need for more equitable treatment in environmental planning.
 
-## : Economic Drivers & Market Forces
+## Economic Drivers & Market Forces
 
 ### Economic Ecosystem
 
@@ -40,7 +46,7 @@
 
 **Fiscal Health:** The city’s financial health appears stable. Revenue from tourism and local business taxes appears robust, though there are concerns regarding investments in necessary infrastructure upgrades, such as the aging sewer system.
 
-## : People & Community Dynamics
+## People & Community Dynamics
 
 ### Demographic Composition
 
