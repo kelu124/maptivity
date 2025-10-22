@@ -2,7 +2,7 @@
 layout: default
 title: Coruscant
 has_children: true
-nav_order: 4
+nav_order: 6
 ---
 
 # Neighborhood Assessment Report: Coruscant

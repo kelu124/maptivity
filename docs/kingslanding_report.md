@@ -2,7 +2,7 @@
 layout: default
 title: Kingslanding
 has_children: true
-nav_order: 3
+nav_order: 5
 ---
 
 # Neighborhood Assessment Report: King's Landing

@@ -2,7 +2,7 @@
 layout: default
 title: Baraddur
 has_children: true
-nav_order: 2
+nav_order: 4
 ---
 
 # Neighborhood Assessment Report: Barad-dûr, the City of Sauron

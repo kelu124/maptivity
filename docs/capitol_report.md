@@ -2,7 +2,7 @@
 layout: default
 title: Capitol
 has_children: true
-nav_order: 7
+nav_order: 9
 ---
 
 # Neighborhood Assessment Report: The Capitol
