@@ -7,7 +7,11 @@ nav_order: 8
 
 # Neighborhood Assessment Report: The Shire
 
-## **Overview & Sustainability Profile**
+## Assessment
+
+![](images/shire_review.png)
+
+## Overview & Sustainability Profile
 
 ### **Neighborhood Snapshot**
 

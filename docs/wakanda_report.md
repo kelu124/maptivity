@@ -7,7 +7,11 @@ nav_order: 7
 
 # Neighborhood Assessment Report: Wakanda
 
-## **Overview & Sustainability Profile**
+## Assessment
+
+![](images/wakanda_review.png)
+
+## Overview & Sustainability Profile
 
 ### **Neighborhood Snapshot**
 

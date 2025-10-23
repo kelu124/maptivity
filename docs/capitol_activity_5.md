@@ -1,160 +1,103 @@
 ---
 layout: default
-title: Capitol's portfolio
+title: Capitol E-Transit Initiative
 parent: Capitol
 has_children: true
-nav_order: 7
+nav_order: 6
 ---
 
-## **INITIATIVE PORTFOLIO**
+## **PROJECT IDENTIFICATION**
 
-### **Initiative #1: Green Roofs for the Capitol**
+### **Project Title:** 
+Capitol E-Transit Initiative
 
-**Category:** Green Space & Environment  
-**Scale:** Neighborhood  
-**Lead Stakeholder Type:** Public-Private Partnership  
-**Timeline:** Medium (2-3 years)  
+### **Project Type:** 
+Infrastructure
 
-**What it is:** This initiative plans to install green roofs on existing government buildings and high-rise commercial structures in the Capitol to enhance biodiversity, reduce urban heat, and improve air quality. Workshops will educate local building owners about the benefits and maintenance of green roofs.
+### **Scale:** 
+City-wide
 
-**Why here:** Given the Capitol's reliance on monumental structures, integrating green spaces into these buildings can provide much-needed ecological benefits while beautifying the urban landscape, thus addressing the stark contrast between affluence and the environmental challenges faced by marginalized citizens.
+### **Timeline:** 
+Long-term (3+ years)
 
-**Who benefits most:** Urban residents and workers, particularly those in densely populated areas within the Capitol.
 
-**Quick win or deep change:** Both
 
-**Estimated complexity:** Moderate
+### ISO37101 mapping for 'Electric public transport for equity.'
 
+#### Scores
 
+|   Score | Purpose                                     | Issue                                              | Justification                                                                                                                                                                                                                                                                                                                                |
+|--------:|:--------------------------------------------|:---------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       5 | Attractiveness                              | Mobility                                           | The project aims to create an electrified public transport network that enhances mobility for all residents, particularly marginalized communities. By improving access to transportation, the initiative increases the city's attractiveness for residents and businesses alike, fostering economic vitality and improving quality of life. |
+|       5 | Preservation and improvement of environment | Economy and sustainable production and consumption | By reducing reliance on gas-powered vehicles, the initiative addresses environmental pollution and climate vulnerability. This is aligned with sustainable production and consumption practices by advocating for an electric public transport system that promotes environmentally friendly practices.                                      |
+|       4 | Resilience                                  | Living together, interdependence and mutuality     | The initiative shows adaptive capacity by introducing electric public transport to mitigate the effects of over-reliance on gas-powered vehicles. It addresses social equity issues, making transportation more resilient to socioeconomic disparities within the community.                                                                 |
+|       5 | Social cohesion                             | Education and capacity building                    | The outreach program and community workshops aim to educate residents on the new transport options, fostering engagement and an inclusive approach to service utilization. This targets social integration and equitable access to transportation.                                                                                           |
+|       4 | Well-being                                  | Health and care in the community                   | Improvements in public transportation access can lead to better health outcomes by enhancing access to jobs, healthcare, and recreational opportunities. This contributes to residents' overall well-being and quality of life.                                                                                                              |
+|       3 | Attractiveness                              | Biodiversity and ecosystem services                | The project leverages existing parks for transport stations and aims to reduce pollution, which indirectly supports local biodiversity and the overall environment, enhancing community attractiveness.                                                                                                                                      |
+|       5 | Responsible resource use                    | Community smart infrastructures                    | The initiative promotes a shift away from fossil fuel reliance to electric transportation, exemplifying responsible use of resources. It encourages investment in smart infrastructure that supports sustainable urban development.                                                                                                          |
+|       4 | Social cohesion                             | Culture and community identity                     | This project respects the local culture of engagement and sustainability, aligning with community values. By ensuring inclusivity in transportation access, it strengthens community identity and cohesion.                                                                                                                                  |
+|       5 | Resilience                                  | Governance, empowerment and engagement             | The initiative emphasizes community engagement through workshops and feedback mechanisms, promoting participation in decision-making processes. This fosters a resilient governance model in adapting to community needs.                                                                                                                    |
+|       4 | Well-being                                  | Safety and security                                | By improving public transport accessibility, safety and security for community members are enhanced, allowing for safer travel options and increased social interactions.                                                                                                                                                                    |
 
-### **Initiative #2: Community Arts Collective**
+## **CONTEXTUAL FOUNDATION**
 
-**Category:** Arts, Culture & Heritage  
-**Scale:** Neighborhood  
-**Lead Stakeholder Type:** Community Group  
-**Timeline:** Short (1 year)  
+### **Specific Local Challenge Addressed:**
+The Capitol currently wrestles with a significant over-reliance on gas-powered vehicles, contributing to environmental pollution and exacerbating the climate vulnerabilities already plaguing the city. The recent plans to introduce electric public transport are a much-needed step in the right direction, yet structural challenges remain. The existing transport options are limited, especially for marginalized residents who often lack access to personal vehicles, thus restricting mobility and hindering their access to opportunities across the city. These challenges reflect not just an infrastructural gap but an equity issue—public transport should be a tool for empowerment and connection, not a barrier.
 
-**What it is:** Establish a community arts collective that brings together local artists from diverse backgrounds to collaborate on projects that reflect the Capitol's cultural richness. The collective can host open mic nights, art exhibitions, and festival activities that celebrate local talent.
+### **Local Assets Leveraged:**
+The Capitol is already home to a network of parks and recreational areas that can serve as stations for the electrified transport network. Furthermore, the public enthusiasm for sustainability seen through initiatives like the ongoing mobility transition suggests a strong existing interest among residents in participating in greener practices. The identified community centers, with their potential for hosting outreach campaigns on the new transport network, create an organic starting point for engagement and education among residents.
 
-**Why here:** The Capitol serves as a cultural hub; enhancing community arts initiatives will not only celebrate its diversity but foster social cohesion among both established residents and those arriving from lower-income districts.
+### **Cultural/Social Fit:**
+This initiative aligns seamlessly with the Capitol’s aspiration for a more equitable urban environment. It respects the existing culture of community engagement and the desire for sustainability that resonates across diverse neighborhoods. Additionally, improving public transport accessibility embodies the value of inclusivity, enabling all residents—regardless of their socioeconomic status—to access not only jobs and education but also cultural, artistic, and recreational opportunities that define the Capitol.
 
-**Who benefits most:** Artists and cultural groups, particularly those feeling alienated within the mainstream arts scene.
+## **PROJECT DESCRIPTION**
 
-**Quick win or deep change:** Quick win
+### **Core Concept:**
+The Capitol E-Transit Initiative aims to develop a city-wide electrified public transport network, including electric buses and charging infrastructure. This transformative venture will reduce reliance on fossil fuels, mitigate air pollution, and enhance mobility options for all residents—particularly for those isolated from job markets and services due to inadequate transport options.
 
-**Estimated complexity:** Simple
+### **Key Components:**
+1. **Physical/Spatial Element:** The installation of dedicated electric bus lanes along high traffic corridors will maximize efficiency and accessibility while denominating clear routes for the electric buses.
+  
+2. **Programming/Activity Element:** A robust outreach program will educate residents on the benefits of electric public transport and provide incentives for their usage—such as reduced fares for low-income riders or free transit days to encourage initial adoption.
 
+3. **Community Engagement Element:** Community workshops aimed at generating feedback on proposed routes and service adjustments will actively involve residents in the planning process, instilling a sense of ownership and cultivating trust towards the initiative.
 
+### **Implementation Approach:**
+- **Phase 1:** Launch a pilot program focusing on key neighborhoods suffering from the highest transportation inequities. This phase will include the deployment of electric buses and the establishment of charging stations throughout neighborhoods identified as food deserts or areas with limited transport access.
+- **Phase 2:** Organize interactive community workshops, leveraging existing social networks and local community centers to refine route optimization and ensure the new transport network serves as many residents as possible.
+- **Phase 3:** Gradually scale the initiative, expanding service routes and increasing the fleet of electric buses, accompanied by continuous community feedback mechanisms that adapt routes and services based on actual use.
 
-### **Initiative #3: Affordable Housing Trust Fund**
+## **STAKEHOLDER ECOSYSTEM**
 
-**Category:** Housing & Built Environment  
-**Scale:** City-wide  
-**Lead Stakeholder Type:** Government  
-**Timeline:** Medium (2-3 years)  
+### **Champions:** 
+The Capitol Department of Transportation as well as local grassroots organizations advocating for sustainable urban practices will drive this initiative forward, providing essential leadership and advocacy.
 
-**What it is:** Creation of an affordable housing trust fund that provides resources and incentives for the development of affordable rental units to help combat gentrification and housing affordability in the Capitol. This would prioritize housing for low-income families and those negatively impacted by local development trends.
+### **Partners:** 
+Key partners would include the local government, private electric transport companies, environmental and transport advocacy groups, and community organizations focused on equity and sustainability. Collaborations with local tech startups for real-time tracking apps for buses could further enhance community engagement.
 
-**Why here:** With property prices skyrocketing and low-income residents feeling alienated, establishing a housing trust fund addresses pressing needs for equitable living conditions and ensures diverse representation within the Capitol.
+### **Beneficiaries:** 
+The initiative primarily benefits lower-income residents who may lack personal transportation. Additionally, commuters across the socio-economic spectrum will experience reduced travel costs and enhanced mobility options, improving their overall quality of life.
 
-**Who benefits most:** Low- and middle-income families at risk of displacement.
+### **Potential Opposition:** 
+Some may resist this initiative due to fears about funding allocation, potential fare increases, or the disruption of existing transport systems. Addressing these concerns through transparency in budgeting and a focus on equitable fare structures that prioritize low-income users will be paramount.
 
-**Quick win or deep change:** Deep change
+## **FEASIBILITY & IMPACT**
 
-**Estimated complexity:** Complex
+### **Success Indicators:**
+- **Quantitative Metric:** A measurable reduction (at least 25%) in gas-powered vehicle use over the first five years post-implementation, along with increased ridership numbers in underserved communities.
+- **Qualitative Metric:** Testimonials from residents expressing greater satisfaction in public transportation options and feelings of enhanced mobility.
+- **Community-defined Metric:** Feedback collected from workshops suggesting a sense of improved community interconnectedness due to better transport access.
 
+### **Ripple Effects:**
+This initiative could stimulate local economic growth by enabling residents to engage more fully in the job market and increase the viability of small businesses located along enhanced transit corridors. Additionally, reduced vehicle emissions can lead to improved air quality, positively impacting public health outcomes city-wide.
 
+### **Risk Mitigation:**
+A primary risk is potential underutilization of the new electric bus routes. To counter this, a flexible, adaptable service model that can be adjusted based on community feedback and usage patterns will be crucial in maintaining relevance and addressing the mobility needs of residents.
 
-### **Initiative #4: Mobile Farmers' Market**
+## **LOCAL ADAPTATION NOTES**
 
-**Category:** Food Systems  
-**Scale:** District  
-**Lead Stakeholder Type:** Non-profit  
-**Timeline:** Immediate (< 6 months)  
+### **What makes this project uniquely suited to this place:**
+The Capitol’s uniquely urban landscape, marked by stark contrasts in wealth and resources, demands a transport solution that not only respects environmental sustainability but also prioritizes social equity. This project revolves around a deep understanding of these local dynamics and the cultural priority placed on mobility as a pathway to opportunity.
 
-**What it is:** Implementation of a mobile farmers' market that travels to underserved neighborhoods in the Capitol to provide fresh produce and healthy food options at subsidized rates. This initiative would partner with local farmers and vendors to offer community cooking classes as well.
-
-**Why here:** Access to food resources is inequitable in the Capitol, making this initiative crucial for promoting health and wellness among lower-income residents who have limited options for accessing fresh food.
-
-**Who benefits most:** Low-income families and residents in food deserts.
-
-**Quick win or deep change:** Quick win
-
-**Estimated complexity:** Simple
-
-
-
-### **Initiative #5: Electrified Public Transport Network**
-
-**Category:** Mobility & Transportation  
-**Scale:** City-wide  
-**Lead Stakeholder Type:** Government  
-**Timeline:** Long (3+ years)  
-
-**What it is:** Develop a city-wide electrified public transport network capable of reducing reliance on gas-powered vehicles, featuring electric buses and charging infrastructure. Plans would include outreach campaigns to promote public transport usage and benefits.
-
-**Why here:** Transitioning to electric public transport aligns with sustainability practices already being initiated and addresses climate vulnerabilities while improving mobility for residents less reliant on private vehicles.
-
-**Who benefits most:** All commuters, especially lower-income residents lacking personal transport options.
-
-**Quick win or deep change:** Deep change
-
-**Estimated complexity:** Complex
-
-
-
-### **Initiative #6: Digital Literacy Workshops**
-
-**Category:** Education & Skills  
-**Scale:** Neighborhood  
-**Lead Stakeholder Type:** Community Group  
-**Timeline:** Short (1 year)  
-
-**What it is:** Establish digital literacy workshops in community centers to provide essential tech skills to residents, emphasizing usage of devices for job applications, and online education. These workshops can also incorporate sessions on responsible digital citizenship.
-
-**Why here:** Improving digital skills is vital for economic opportunities in a tech-driven society, addressing the gap for lower-income residents who may not have had access to such education.
-
-**Who benefits most:** Youth and working-age adults looking for employment opportunities.
-
-**Quick win or deep change:** Quick win
-
-**Estimated complexity:** Simple
-
-
-
-### **Initiative #7: Climate Resilience Community Hubs**
-
-**Category:** Community Safety & Resilience  
-**Scale:** District  
-**Lead Stakeholder Type:** Non-profit / Government partnership  
-**Timeline:** Medium (2-3 years)  
-
-**What it is:** Establish climate resilience hubs throughout different districts to provide community members with resources to prepare for climate emergencies, offer training in disaster preparedness, and promote local resilience strategies that emphasize sustainability practices.
-
-**Why here:** As climate vulnerabilities grow, these hubs can help connect marginalized communities affected by environmental degradation, informing them about resources and collective action for building resilience.
-
-**Who benefits most:** Vulnerable populations in the Capitol, particularly those in at-risk neighborhoods.
-
-**Quick win or deep change:** Both
-
-**Estimated complexity:** Moderate
-
-
-
-## **PORTFOLIO OVERVIEW**
-
-### **Interconnections:**
-- The mobile farmers' market can capitalize on the community arts collective by including local crafts and artists, creating an intersection of food and culture.
-- The affordable housing trust fund could work alongside the electrified public transport network, ensuring that new housing developments are near key transit lines, improving residents' accessibility to jobs and resources.
-- Digital literacy workshops could be conducted at climate resilience hubs, equipping participants to utilize technology in disaster scenarios.
-
-### **Sequencing Recommendation:**
-Starting with the mobile farmers' market as a quick win would enhance immediate food access, build trust in community initiatives, and pave the way for subsequent more complex projects like the affordable housing trust fund.
-
-### **Coverage Check:**
-- Age groups served: Children, Youth, Working Age, Seniors
-- Economic spectrum: Low-income, Middle-income
-- Spatial distribution: Concentrated in underserved neighborhoods, with city-wide initiatives that reach broad demographics.
-
-### **Missing Voice:**
-The voices of long-term residents who may feel left out of discussions about development and change could be overlooked, particularly regarding cultural identity and traditions that could enrich the Capitol's community fabric.
+### **How locals would likely describe this project in their own words:**
+"This project will help us connect better with one another and the city, making it easier for families like mine to reach jobs and healthcare without the burden of owning a car or relying on gas."

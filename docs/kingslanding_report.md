@@ -7,6 +7,10 @@ nav_order: 5
 
 # Neighborhood Assessment Report: King's Landing
 
+## Assessment
+
+![](images/kingslanding_review.png)
+
 ## Overview & Sustainability Profile
 
 ### Neighborhood Snapshot

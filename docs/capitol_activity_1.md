@@ -1,160 +1,102 @@
 ---
 layout: default
-title: Capitol's portfolio
+title: Capitol Green Roof Initiative
 parent: Capitol
 has_children: true
-nav_order: 7
+nav_order: 2
 ---
 
-## **INITIATIVE PORTFOLIO**
+## **PROJECT IDENTIFICATION**
 
-### **Initiative #1: Green Roofs for the Capitol**
+### **Project Title:** 
+Capitol Green Roof Initiative
 
-**Category:** Green Space & Environment  
-**Scale:** Neighborhood  
-**Lead Stakeholder Type:** Public-Private Partnership  
-**Timeline:** Medium (2-3 years)  
+### **Project Type:** 
+Environmental
 
-**What it is:** This initiative plans to install green roofs on existing government buildings and high-rise commercial structures in the Capitol to enhance biodiversity, reduce urban heat, and improve air quality. Workshops will educate local building owners about the benefits and maintenance of green roofs.
+### **Scale:** 
+District
 
-**Why here:** Given the Capitol's reliance on monumental structures, integrating green spaces into these buildings can provide much-needed ecological benefits while beautifying the urban landscape, thus addressing the stark contrast between affluence and the environmental challenges faced by marginalized citizens.
+### **Timeline:** 
+Medium-term (2-3 years)
 
-**Who benefits most:** Urban residents and workers, particularly those in densely populated areas within the Capitol.
 
-**Quick win or deep change:** Both
 
-**Estimated complexity:** Moderate
+### ISO37101 mapping for '"Green roofs for urban sustainability."'
 
+#### Scores
 
+|   Score | Purpose                                     | Issue                                              | Justification                                                                                                                                                                                                                                                                                                                |
+|--------:|:--------------------------------------------|:---------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       5 | Attractiveness                              | Culture and community identity                     | The Capitol Green Roof Initiative aligns with the Capitol's identity as a cultural hub, enhancing aesthetic appeal and fostering connection among residents. By integrating green roofs, the project enriches both environmental and cultural attributes, making the locality more attractive to the community and visitors. |
+|       5 | Preservation and improvement of environment | Biodiversity and ecosystem services                | The initiative aims to enhance biodiversity through the installation of green roofs, promoting ecological corridors and improving air quality. This focus on creating greener spaces contributes directly to environmental stewardship and the restoration of local ecosystem services.                                      |
+|       5 | Resilience                                  | Health and care in the community                   | The project addresses urban heat and air pollution challenges, especially in marginalized communities. By improving environmental conditions through green roofs, it enhances the community’s overall health and resilience to climate impacts, contributing to better living conditions.                                    |
+|       4 | Responsible resource use                    | Community smart infrastructures                    | The initiative promotes sustainable use of resources by implementing green technologies and practices, particularly through the use of native vegetation and efficient irrigation systems. This contributes to responsible management of urban infrastructures while creating a sustainable neighborhood.                    |
+|       5 | Social cohesion                             | Living together, interdependence and mutuality     | By ensuring community engagement in the design and maintenance of green roofs, the initiative fosters collaboration and inclusivity. It strengthens social bonds among residents across different demographics, enhancing community identity and mutual support.                                                             |
+|       5 | Well-being                                  | Living and working environment                     | The transformation of rooftops into green spaces promotes physical and mental well-being for residents. The project provides recreational opportunities, enhances quality of life, and contributes positively to the overall living environment.                                                                             |
+|       4 | Attractiveness                              | Economy and sustainable production and consumption | By boosting property values and creating appealing spaces, the initiative can enhance local economic conditions. Furthermore, it supports local businesses and encourages responsible consumer behavior in the community.                                                                                                    |
+|       3 | Preservation and improvement of environment | Mobility                                           | While the primary focus is on green roofs, enhancing the environment can indirectly improve mobility by creating more accessible and inviting public spaces for walking and cycling.                                                                                                                                         |
+|       4 | Resilience                                  | Governance, empowerment and engagement             | The project emphasizes community involvement in decision-making, ensuring that local voices are heard and empowering residents to take part in managing their environment. This governance model is essential for fostering resilience against future challenges.                                                            |
 
-### **Initiative #2: Community Arts Collective**
+## **CONTEXTUAL FOUNDATION**
 
-**Category:** Arts, Culture & Heritage  
-**Scale:** Neighborhood  
-**Lead Stakeholder Type:** Community Group  
-**Timeline:** Short (1 year)  
+### **Specific Local Challenge Addressed:**
+The Capitol is characterized by its extravagant architecture and opulent lifestyle, creating stark disparities between affluent residents and marginalized populations in the nearby districts. With high rates of urban heat and air pollution exacerbated by dense building frameworks, residents in lower-income areas are particularly vulnerable, suffering from the negative effects due to lack of green spaces. The Capitol Green Roof Initiative aims to address these environmental challenges by integrating sustainable, green infrastructures—specifically green roofs—across government and high-rise commercial buildings, thereby enhancing biodiversity, improving air quality, and reducing the urban heat island effect.
 
-**What it is:** Establish a community arts collective that brings together local artists from diverse backgrounds to collaborate on projects that reflect the Capitol's cultural richness. The collective can host open mic nights, art exhibitions, and festival activities that celebrate local talent.
+### **Local Assets Leveraged:**
+The Capitol boasts several existing assets such as parks, community gardens, and lush public squares, which can serve as models for engaging community members with green roofing concepts. Additionally, there is a wealth of creative capacity within the community, driven by local artists, architects, and ecologists who can contribute to the design and implementation of green roofs. By tapping into resources available at public libraries, community organizations, and local universities, the initiative can foster collaboration that stems from the community’s existing strengths.
 
-**Why here:** The Capitol serves as a cultural hub; enhancing community arts initiatives will not only celebrate its diversity but foster social cohesion among both established residents and those arriving from lower-income districts.
+### **Cultural/Social Fit:**
+Green roofs align seamlessly with the Capitol's emerging identity as a cultural hub and the community’s collective vision for inclusivity and sustainability. The initiative resonates with local values of innovation and creativity, enhancing the aesthetic and environmental appeal of one of the country’s most notable centers. It respects the Capitol's unique character while addressing urgent climate issues, fostering a deeper connection between residents and the environment, and symbolizing a shift toward green governance.
 
-**Who benefits most:** Artists and cultural groups, particularly those feeling alienated within the mainstream arts scene.
+## **PROJECT DESCRIPTION**
 
-**Quick win or deep change:** Quick win
+### **Core Concept:** 
+The Capitol Green Roof Initiative focuses on transforming underutilized rooftops across significant buildings into vibrant green spaces, thus creating ecological corridors that promote urban biodiversity, enhance air quality, and provide recreational opportunities for city dwellers. The initiative becomes a beacon for sustainable urban living, blending ecological education with the everyday urban experience.
 
-**Estimated complexity:** Simple
+### **Key Components:**
+1. **Physical/spatial element:** Installation of extensive green roofs on selected government buildings and high-rise commercial structures, incorporating native vegetation, drip irrigation systems, and aesthetic elements such as art from local artists.
+2. **Programming/activity element:** Host workshops to educate building owners, businesses, and residents about the benefits of green roofs, covering topics such as maintenance, energy efficiency, and community involvement in design decisions.
+3. **Community engagement element:** Create a community involvement program where residents can participate in the design and maintenance of these green spaces, ensuring that voices from all demographics are represented. 
 
+### **Implementation Approach:**
+- **Phase 1:** Begin with an awareness campaign to increase support and enthusiasm for green roofs through community meetings, pop-up exhibits, and social media outreach. Identify key buildings and secure commitments from owners or municipal authorities for pilot projects.
+- **Phase 2:** Initiate workshops led by experts to train local crews and volunteers on green roofing installation and maintenance techniques, emphasizing the involvement of local workforce development programs to boost job creation.
+- **Phase 3:** Launch the installation of the first wave of green roofs, with ongoing community participation. Celebrate the completion of each roof with events that introduce residents to the newly created spaces and provide educational sessions on environmental benefits.
 
+## **STAKEHOLDER ECOSYSTEM**
 
-### **Initiative #3: Affordable Housing Trust Fund**
+### **Champions:** 
+A team of engaged local architects, environmentalists, and representatives from the city’s planning department can champion this initiative, effectively driving efforts to communicate the benefits and coordinate the engagement of various community stakeholders.
 
-**Category:** Housing & Built Environment  
-**Scale:** City-wide  
-**Lead Stakeholder Type:** Government  
-**Timeline:** Medium (2-3 years)  
+### **Partners:** 
+Collaboration with local universities, gardening clubs, environmental nonprofit organizations, and community centers will be crucial in funding, promoting, and executing the initiative. Additionally, securing partnerships with local businesses can facilitate materials donations or sponsorships.
 
-**What it is:** Creation of an affordable housing trust fund that provides resources and incentives for the development of affordable rental units to help combat gentrification and housing affordability in the Capitol. This would prioritize housing for low-income families and those negatively impacted by local development trends.
+### **Beneficiaries:** 
+Urban residents and workers, particularly those in densely populated areas, will benefit from increased green space, improved air quality, and a sense of community ownership. Local businesses may also see a boost as their buildings become more energy-efficient and appealing to clients.
 
-**Why here:** With property prices skyrocketing and low-income residents feeling alienated, establishing a housing trust fund addresses pressing needs for equitable living conditions and ensures diverse representation within the Capitol.
+### **Potential Opposition:** 
+Existing property owners resistant to the investment required for green roof installations might pose obstacles. Clear communication demonstrating long-term cost benefits, including energy savings and potential property value enhancement, can alleviate these concerns.
 
-**Who benefits most:** Low- and middle-income families at risk of displacement.
+## **FEASIBILITY & IMPACT**
 
-**Quick win or deep change:** Deep change
+### **Success Indicators:**
+- Quantitative metric: The number of green roofs installed within the first three years.
+- Qualitative metric: Resident satisfaction surveys evaluating the aesthetics and utility of the green roofs.
+- Community-defined metric: The level of resident engagement in workshops and activities related to green roofing.
 
-**Estimated complexity:** Complex
+### **Ripple Effects:**
+This initiative may inspire similar environmental projects across the Capitol, including urban gardening initiatives and expanded community gardening programs. It can also help foster greater awareness of sustainable practices in everyday lives, leading to a cultural shift toward valuing ecological stewardship.
 
+### **Risk Mitigation:**
+The primary risk involves funding constraints for extensive installations. To mitigate this, the project team would actively pursue grants from environmental foundations and governmental programs aimed at sustainability, while exploring innovative financing options such as green bonds.
 
+## **LOCAL ADAPTATION NOTES**
 
-### **Initiative #4: Mobile Farmers' Market**
+### **What makes this project uniquely suited to this place:**
+The design, installation, and community engagement components of the Capitol Green Roof Initiative are specifically tailored to navigate the complex socioeconomic landscape of the Capitol. The project focuses on elevating green infrastructure within existing urban frameworks and providing those from marginalized backgrounds access to ecological benefits that many in the affluent areas take for granted.
 
-**Category:** Food Systems  
-**Scale:** District  
-**Lead Stakeholder Type:** Non-profit  
-**Timeline:** Immediate (< 6 months)  
+### **How locals would likely describe this project in their own words:**
+Locals might refer to this initiative as a way of “bringing the garden back to our rooftops,” highlighting a shared sense of pride in transforming their skyline while improving their quality of life. They would appreciate how green roofs serve as a reminder of hope, resilience, and sustainable community development that is both beautiful and functional. 
 
-**What it is:** Implementation of a mobile farmers' market that travels to underserved neighborhoods in the Capitol to provide fresh produce and healthy food options at subsidized rates. This initiative would partner with local farmers and vendors to offer community cooking classes as well.
-
-**Why here:** Access to food resources is inequitable in the Capitol, making this initiative crucial for promoting health and wellness among lower-income residents who have limited options for accessing fresh food.
-
-**Who benefits most:** Low-income families and residents in food deserts.
-
-**Quick win or deep change:** Quick win
-
-**Estimated complexity:** Simple
-
-
-
-### **Initiative #5: Electrified Public Transport Network**
-
-**Category:** Mobility & Transportation  
-**Scale:** City-wide  
-**Lead Stakeholder Type:** Government  
-**Timeline:** Long (3+ years)  
-
-**What it is:** Develop a city-wide electrified public transport network capable of reducing reliance on gas-powered vehicles, featuring electric buses and charging infrastructure. Plans would include outreach campaigns to promote public transport usage and benefits.
-
-**Why here:** Transitioning to electric public transport aligns with sustainability practices already being initiated and addresses climate vulnerabilities while improving mobility for residents less reliant on private vehicles.
-
-**Who benefits most:** All commuters, especially lower-income residents lacking personal transport options.
-
-**Quick win or deep change:** Deep change
-
-**Estimated complexity:** Complex
-
-
-
-### **Initiative #6: Digital Literacy Workshops**
-
-**Category:** Education & Skills  
-**Scale:** Neighborhood  
-**Lead Stakeholder Type:** Community Group  
-**Timeline:** Short (1 year)  
-
-**What it is:** Establish digital literacy workshops in community centers to provide essential tech skills to residents, emphasizing usage of devices for job applications, and online education. These workshops can also incorporate sessions on responsible digital citizenship.
-
-**Why here:** Improving digital skills is vital for economic opportunities in a tech-driven society, addressing the gap for lower-income residents who may not have had access to such education.
-
-**Who benefits most:** Youth and working-age adults looking for employment opportunities.
-
-**Quick win or deep change:** Quick win
-
-**Estimated complexity:** Simple
-
-
-
-### **Initiative #7: Climate Resilience Community Hubs**
-
-**Category:** Community Safety & Resilience  
-**Scale:** District  
-**Lead Stakeholder Type:** Non-profit / Government partnership  
-**Timeline:** Medium (2-3 years)  
-
-**What it is:** Establish climate resilience hubs throughout different districts to provide community members with resources to prepare for climate emergencies, offer training in disaster preparedness, and promote local resilience strategies that emphasize sustainability practices.
-
-**Why here:** As climate vulnerabilities grow, these hubs can help connect marginalized communities affected by environmental degradation, informing them about resources and collective action for building resilience.
-
-**Who benefits most:** Vulnerable populations in the Capitol, particularly those in at-risk neighborhoods.
-
-**Quick win or deep change:** Both
-
-**Estimated complexity:** Moderate
-
-
-
-## **PORTFOLIO OVERVIEW**
-
-### **Interconnections:**
-- The mobile farmers' market can capitalize on the community arts collective by including local crafts and artists, creating an intersection of food and culture.
-- The affordable housing trust fund could work alongside the electrified public transport network, ensuring that new housing developments are near key transit lines, improving residents' accessibility to jobs and resources.
-- Digital literacy workshops could be conducted at climate resilience hubs, equipping participants to utilize technology in disaster scenarios.
-
-### **Sequencing Recommendation:**
-Starting with the mobile farmers' market as a quick win would enhance immediate food access, build trust in community initiatives, and pave the way for subsequent more complex projects like the affordable housing trust fund.
-
-### **Coverage Check:**
-- Age groups served: Children, Youth, Working Age, Seniors
-- Economic spectrum: Low-income, Middle-income
-- Spatial distribution: Concentrated in underserved neighborhoods, with city-wide initiatives that reach broad demographics.
-
-### **Missing Voice:**
-The voices of long-term residents who may feel left out of discussions about development and change could be overlooked, particularly regarding cultural identity and traditions that could enrich the Capitol's community fabric.
+By aligning the ambitions of The Capitol with residents' needs, the Capitol Green Roof Initiative allows All angles of the community and environment to come together, paving the path towards a greener, more equitable urban environment.

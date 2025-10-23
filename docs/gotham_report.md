@@ -7,6 +7,10 @@ nav_order: 3
 
 # Neighborhood Assessment Report: Gotham City
 
+## Assessment
+
+![](images/gotham_review.png)
+
 ## Overview & Sustainability Profile
 
 ### Neighborhood Snapshot

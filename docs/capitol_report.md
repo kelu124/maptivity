@@ -7,6 +7,10 @@ nav_order: 9
 
 # Neighborhood Assessment Report: The Capitol
 
+## Assessment
+
+![](images/capitol_review.png)
+
 ## Overview & Sustainability Profile
 
 ### Neighborhood Snapshot

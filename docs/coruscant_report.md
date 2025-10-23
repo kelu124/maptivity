@@ -7,7 +7,11 @@ nav_order: 6
 
 # Neighborhood Assessment Report: Coruscant
 
-## **Overview & Sustainability Profile**
+## Assessment
+
+![](images/coruscant_review.png)
+
+## Overview & Sustainability Profile
 
 ### **Neighborhood Snapshot**
 Coruscant, the vibrant capital of the galaxy, is a planet-wide metropolis characterized by its towering skyscrapers, bustling cosmopolitan life, and rich cultural tapestry. As a hub for political, economic, and social activities, Coruscant attracts diverse populations and serves as a critical link in intergalactic commerce. With a dynamic blend of cutting-edge technology and historic landmarks, the neighborhood features an urban landscape that reflects both its heritage and its futuristic aspirations. While the allure of Coruscant's prosperity is evident, the challenges of overpopulation and environmental degradation pose significant hurdles.
