@@ -1,85 +1,158 @@
 ---
 layout: default
-title: Kingslanding's activity 6
+title: Kingslanding's portfolio
 parent: Kingslanding
-nav_order: 7
+has_children: true
+nav_order: 3
 ---
 
-## **PROJECT IDENTIFICATION**
+## **INITIATIVE PORTFOLIO**
 
-### **Project Title:**
-King’s Green Wheel: A Sustainable Transport Revival
+### **Initiative #1: Green Alley Revitalization**
 
-### **Project Type:**
-Infrastructure / Environmental / Hybrid
+**Category:** Green Space & Environment  
+**Scale:** Neighborhood  
+**Lead Stakeholder Type:** Community Group  
+**Timeline:** Short (1 year)  
 
-### **Scale:**
-City-wide
+**What it is:** This initiative involves transforming narrow alleys in King's Landing, particularly those in Flea Bottom, into vibrant green spaces. Community members will collaborate to plant gardens, install benches, and create small gathering areas to promote social interaction and biodiversity.
 
-### **Timeline:**
-Medium-term (2-3 years)
+**Why here:** The rejuvenation of green spaces in Flea Bottom addresses the access disparities in environmental assets, helping to improve air quality and residents’ overall well-being while fostering community ties.
 
-## **CONTEXTUAL FOUNDATION**
+**Who benefits most:** Low-income residents of Flea Bottom and surrounding neighborhoods.  
 
-### **Specific Local Challenge Addressed:**
-King's Landing faces significant issues regarding transportation, particularly the dependency on coal-powered carriages which contributes to air pollution and traffic congestion. The narrow streets and dense population exacerbate these challenges, leading to a need for sustainable and efficient transport options. The introduction of the “Horse and Cart Lane” has begun to address these needs, but the lack of comprehensive, green transport options means many residents continue to rely on outdated and environmentally unfriendly methods. This initiative directly tackles the dual issues of enhancing mobility while promoting sustainability in a city rich with historical tradition.
+**Quick win or deep change:** Both. 
 
-### **Local Assets Leveraged:**
-The city already possesses extensive historical and cultural values tied to transportation forms, such as horse-drawn carriages and the vibrant marketplaces that embody community interaction. By building on the existing “Horse and Cart Lane” framework, this project leverages local pride in both historical practices and the emerging commitment to sustainable alternatives. Moreover, the city’s diverse artisan community is poised to contribute to this initiative by integrating local craftsmanship into the design of transport assets, thus enriching the local identity.
+**Estimated complexity:** Moderate.
 
-### **Cultural/Social Fit:**
-Sustainability aligns seamlessly with King's Landing's cultural values as residents have shown a commitment to improved environmental stewardship through existing green practices. This project not only respects the city's historical aspects but enhances them by integrating modern eco-friendly transportation solutions. Local customs, such as communal gatherings in public spaces, can continue through this initiative by creating multi-functional lanes for transportation and social interaction.
 
-## **PROJECT DESCRIPTION**
 
-### **Core Concept:**
-The King’s Green Wheel initiative envisions a city-wide network of sustainable transport options that combines electric carts, expanded bicycle lanes, and pedestrian-friendly corridors. This initiative aims to create an integrated transportation system that minimizes environmental impact while enhancing mobility for all residents, especially in high-traffic areas.
+### **Initiative #2: Cultural Festival Series**
 
-### **Key Components:**
-1. **Electric Cart Networks:** Establish designated lanes for electric carts that connect major residential areas with marketplaces, schools, and parks. These carts will operate on renewable energy, reducing overall emissions and enhancing transport accessibility.
-   
-2. **Bike Lane Expansion:** Create dedicated bike lanes throughout King’s Landing that prioritize safe routes for cyclists and promote bicycle-sharing programs to encourage more residents to adopt cycling as a primary means of transportation.
+**Category:** Arts, Culture & Heritage  
+**Scale:** District  
+**Lead Stakeholder Type:** Non-profit  
+**Timeline:** Medium (2-3 years)  
 
-3. **Community Engagement Programs:** As part of the initiative, host workshops and public forums to educate residents about the benefits of sustainable transport. Collaborate with local artists to design informational signage that highlights the routes and connects them with the city’s history.
+**What it is:** This series will celebrate the diverse cultural heritage of King's Landing through a series of monthly festivals showcasing food, art, music, and traditions from various ethnic groups present in the city. The events will also feature booths for local artisans.
 
-### **Implementation Approach:**
-- **Phase 1:** Identify existing transport routes that require improvement and conduct community workshops to gauge interest in sustainable transportation options. This phase will focus on building awareness and support among residents.
-- **Phase 2:** Pilot the electric cart service in select districts, incorporating feedback from users to refine routes and services. This will include creating temporary bike lanes and hosting community events to promote cycling.
-- **Phase 3:** Launch the full-scale implementation, including permanent electric cart lanes, well-marked bike paths, and regular community educational events. Establish monitoring and feedback mechanisms to adapt and improve the transport system as needed.
+**Why here:** Hosting cultural festivals promotes social cohesion, highlights the neighborhood’s rich community dynamics, and provides a platform for underrepresented voices and traditions.
 
-## **STAKEHOLDER ECOSYSTEM**
+**Who benefits most:** Cultural groups and local artisans.
 
-### **Champions:**
-Local government officials committed to sustainability, influential community leaders from neighborhoods like Flea Bottom, and representatives from local advocacy groups focused on environmental justice will serve as advocates for this initiative.
+**Quick win or deep change:** Quick win.
 
-### **Partners:**
-Key partners will include transportation authorities, local businesses invested in sustainable practices, and academic institutions interested in transportation studies that can provide research support and outreach.
+**Estimated complexity:** Moderate.
 
-### **Beneficiaries:**
-All residents of King’s Landing will benefit from enhanced mobility options, particularly those in underserved areas who currently face transportation barriers. Local artisans and businesses will also see increased foot traffic from improved access to marketplaces.
 
-### **Potential Opposition:**
-Resistance may arise from traditional carriage operators and local business owners who worry about economic impacts. Engaging these stakeholders early in the planning process to understand their concerns and explore integration into the new system—such as offering viable transitions or incentives—will be crucial to alleviate resistance.
 
-## **FEASIBILITY & IMPACT**
+### **Initiative #3: Resilience Hub Initiative**
 
-### **Success Indicators:**
-- **Quantitative Metric:** Increase in sustainable transport option usage by 30% within two years of implementation.
-- **Qualitative Metric:** Resident satisfaction surveys indicating a stronger sense of community and improved mobility.
-- **Community-Defined Metric:** Creation of a resident-led transport oversight group to monitor and evaluate the effectiveness of the initiative.
+**Category:** Community Safety & Resilience  
+**Scale:** City-wide  
+**Lead Stakeholder Type:** Public-Private Partnership  
+**Timeline:** Long (3+ years)  
 
-### **Ripple Effects:**
-The King’s Green Wheel initiative has the potential to catalyze a culture of eco-friendly practices beyond transportation, inspiring community members to adopt similar sustainable initiatives in their everyday lives, such as gardening or community clean-ups.
+**What it is:** This initiative will design and implement resilience hubs equipped with emergency supplies, educational resources, and community meeting spaces in vulnerable areas like Flea Bottom. These hubs will prepare residents for climate-related events, fostering a culture of preparedness.
 
-### **Risk Mitigation:**
-The primary risk is implementation inertia, driven by lack of public interest or traditionalist sentiments. To mitigate this, a robust communication strategy highlighting the environmental, health, and economic benefits will be employed, coupled with community events that foster excitement for the initiative.
+**Why here:** Given King’s Landing’s vulnerabilities to flooding and climate change, this initiative directly addresses community safety while promoting inclusivity and resource access.
 
-## **LOCAL ADAPTATION NOTES**
+**Who benefits most:** Vulnerable community members, particularly in low-income areas.
 
-### **What makes this project uniquely suited to this place:**
-King’s Landing’s rich tapestry of historical transport channels provides a unique backdrop to a modern sustainability initiative. The project builds on local culture, maintaining the charm of traditional transport while making it environmentally responsible. Each aspect of the initiative respects existing local customs, integrating King’s Landing's story into the framework of forward-thinking urban development.
+**Quick win or deep change:** Deep change.
 
-### **How locals would likely describe this project in their own words:**
-“Finally, a way to get around the city that doesn’t choke the air with smoke! Imagine riding through our streets on clean electric carts or bicycles, while still keeping the heartbeat of our beloved King’s Landing alive.” 
+**Estimated complexity:** Complex.
 
-This initiative empowers residents, promotes sustainability, and proudly acknowledges the city’s past while looking towards a greener, more inclusive future.
+
+
+### **Initiative #4: Local Business Incubator**
+
+**Category:** Economic Development & Local Business  
+**Scale:** Neighborhood  
+**Lead Stakeholder Type:** Academic Institution  
+**Timeline:** Short (1 year)  
+
+**What it is:** This incubator will provide resources, mentorship, and funding opportunities to small business owners and entrepreneurs in King's Landing, particularly targeting those from marginalized backgrounds. Programs will include workshops and networking events.
+
+**Why here:** This initiative leverages the existing entrepreneurial spirit of local artisans and businesses, fostering economic growth and providing inclusivity in a bustling trade environment.
+
+**Who benefits most:** Aspiring entrepreneurs and small business owners.
+
+**Quick win or deep change:** Both.
+
+**Estimated complexity:** Moderate.
+
+
+
+### **Initiative #5: Eco-Transportation Advocacy**
+
+**Category:** Mobility & Transportation  
+**Scale:** City-wide  
+**Lead Stakeholder Type:** Non-profit  
+**Timeline:** Short (1 year)  
+
+**What it is:** This initiative will promote alternative sustainable transportation methods such as walking, cycling, and electric carts. It will include community workshops on maintenance, safety, and encourage the development of additional bike lanes.
+
+**Why here:** With the "Horse and Cart Lane" already promoting sustainable movement, this initiative will build on existing efforts, helping reduce reliance on fossil fuels and enhancing mobility equity in urban spaces.
+
+**Who benefits most:** All residents, especially those in densely populated areas.
+
+**Quick win or deep change:** Quick win.
+
+**Estimated complexity:** Simple.
+
+
+
+### **Initiative #6: Skills for Employment Program**
+
+**Category:** Education & Skills  
+**Scale:** Neighborhood  
+**Lead Stakeholder Type:** Non-profit  
+**Timeline:** Medium (2-3 years)  
+
+**What it is:** This program will offer free vocational training and workshops tailored to the job market in King's Landing, focusing on skills such as craftsmanship, trade skills, and technology to equip the workforce for better employment opportunities.
+
+**Why here:** With a resilient job market but existing disparities, this program addresses unemployment by providing necessary skills while investing in the city's human capital.
+
+**Who benefits most:** Youth and working-age residents looking to re-enter the workforce.
+
+**Quick win or deep change:** Both. 
+
+**Estimated complexity:** Moderate.
+
+
+
+### **Initiative #7: Community Food Cooperative**
+
+**Category:** Food Systems  
+**Scale:** Neighborhood  
+**Lead Stakeholder Type:** Community Group  
+**Timeline:** Immediate (< 6 months)  
+
+**What it is:** Establishing a food cooperative will empower residents to collectively source and distribute fresh, affordable, and sustainable food products. Local farmers and merchants will be encouraged to supply the co-op.
+
+**Why here:** Given King’s Landing’s reliance on surrounding lands for food, this initiative will promote food justice and sustainability while addressing disparities in access to nutritious food.
+
+**Who benefits most:** Low- and middle-income families.
+
+**Quick win or deep change:** Quick win.
+
+**Estimated complexity:** Simple.
+
+
+
+## **PORTFOLIO OVERVIEW**
+
+### **Interconnections:**
+The Green Alley Revitalization and Cultural Festival Series can reinforce each other by utilizing newly created green spaces for festival activities, enhancing local pride and activation of communal areas. Additionally, the Local Business Incubator can collaborate with the Community Food Cooperative to provide economic opportunities for local vendors and farmers.
+
+### **Sequencing Recommendation:**
+Start with the Community Food Cooperative as an immediate priority to address food access issues. This can be followed by the Green Alley Revitalization, which can provide spaces for community gathering and collaboration for subsequent initiatives like the Cultural Festival Series.
+
+### **Coverage Check:**
+- Age groups served: Children, Youth, Working Age, Seniors
+- Economic spectrum: Low-income, Middle-income, Mixed
+- Spatial distribution: Concentrated in Flea Bottom and surrounding neighborhoods.
+
+### **Missing Voice:**
+The elderly population might still be overlooked, particularly regarding transportation-related initiatives and accessibility in community spaces. This demographic's needs must be considered to ensure full community integration and engagement.
