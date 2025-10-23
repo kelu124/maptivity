@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kings’ Craft and Trade Academy
+title: Connect & Thrive
 parent: Kingslanding
 has_children: true
 nav_order: 7
@@ -9,93 +9,98 @@ nav_order: 7
 ## **PROJECT IDENTIFICATION**
 
 ### **Project Title:** 
-Kings’ Craft and Trade Academy
+**Connect & Thrive: Digital Access for All**
 
 ### **Project Type:** 
-Social Program
+Social Program / Economic Development
 
 ### **Scale:** 
 Neighborhood
 
 ### **Timeline:** 
-Medium-term (2-3 years)
+Short-term (1 year)
 
 
 
-### ISO37101 mapping for 'Vocational training for community empowerment.'
+### ISO37101 mapping for 'Digital inclusion for underserved communities.'
 
 #### Scores
 
-|   Score | Purpose                                     | Issue                                              | Justification                                                                                                                                                                                                                                     |
-|--------:|:--------------------------------------------|:---------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       5 | Attractiveness                              | Culture and community identity                     | The Kings’ Craft and Trade Academy leverages the rich cultural heritage of King’s Landing, which includes traditional craftsmanship and community identity, enhancing local pride and social cohesion by aligning education with cultural values. |
-|       5 | Social cohesion                             | Living together, interdependence and mutuality     | The project promotes social cohesion by providing equitable access to vocational training for underprivileged communities, fostering collaboration and mutual support among residents, which strengthens community ties.                          |
-|       4 | Well-being                                  | Health and care in the community                   | By equipping individuals with vocational skills and improving employability, the Academy contributes to personal well-being and community health, helping residents secure livelihoods and improve their quality of life.                         |
-|       4 | Responsible resource use                    | Economy and sustainable production and consumption | The Academy aims to create pathways into sustainable jobs, encouraging local production and consumption, which aligns with the ethos of economic diversity and reduced inequalities.                                                              |
-|       5 | Resilience                                  | Education and capacity building                    | The training provided by the Academy equips residents with skills that enhance their adaptability in a changing job market, fostering resilience both individually and community-wide.                                                            |
-|       3 | Preservation and improvement of environment | Innovation, creativity and research                | By incorporating modern skills training in traditional crafts, the project encourages innovative practices that respect and enhance local cultural ecology and economic sustainability.                                                           |
-|       3 | Attractiveness                              | Mobility                                           | As the Academy seeks a central location and promotes engagement through local businesses, it indirectly enhances community attractiveness through improved access to vocational opportunities.                                                    |
-|       4 | Social cohesion                             | Governance, empowerment and engagement             | The project emphasizes community engagement through local forums, empowering residents to shape the training offerings and fostering a democratic approach to educational development.                                                            |
-|       3 | Well-being                                  | Safety and security                                | By improving employability and supporting livelihoods, the Academy enhances overall community well-being, which contributes to a safer and more secure local environment.                                                                         |
-|       3 | Resilience                                  | Community smart infrastructures                    | Although primarily focused on vocational training, the Academy's potential partnerships with local businesses may lead to improvements in community infrastructure as they seek to support job placements and training.                           |
+|   Score | Purpose                                     | Issue                                              | Justification                                                                                                                                                                                                                                                                                                                               |
+|--------:|:--------------------------------------------|:---------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       5 | Attractiveness                              | Economy and sustainable production and consumption | This project aims to invigorate the local economy by empowering residents with digital skills and access to online resources. By providing free public Wi-Fi and digital literacy workshops, it enhances the economic opportunities available to community members, which is crucial for attracting and retaining businesses and residents. |
+|       5 | Social cohesion                             | Living together, interdependence and mutuality     | 'Connect & Thrive' promotes social integration by fostering collaboration among residents and creating a supportive environment through community-led initiatives like the Digital Ambassadors program. This approach strengthens community bonds and mutual support, essential for a cohesive neighborhood.                                |
+|       5 | Well-being                                  | Health and care in the community                   | Enhancing digital access contributes directly to the well-being of residents by providing access to educational resources and remote work opportunities. This project addresses both physical and mental health aspects by promoting a digitally inclusive environment that empowers individuals.                                           |
+|       4 | Responsible resource use                    | Education and capacity building                    | The initiative fosters responsible resource use by training residents in essential digital skills, enabling them to utilize technology efficiently. This capacity-building aspect is vital as it helps residents adapt to the modern economy and encourages sustainable practices.                                                          |
+|       4 | Resilience                                  | Governance, empowerment and engagement             | By addressing disparities in digital access, the project enhances community resilience. Empowering residents with digital skills ensures they can adapt to economic changes and access information that may help them navigate challenges more effectively.                                                                                 |
+|       3 | Attractiveness                              | Mobility                                           | Improved digital access can enhance mobility by allowing residents to engage in remote work and e-commerce, reducing the need for physical travel. Additionally, fostering a digitally connected community may encourage local businesses to invest in better transport options.                                                            |
+|       3 | Preservation and improvement of environment | Biodiversity and ecosystem services                | While primarily focused on digital access and community engagement, the project encourages better use of public spaces by creating Wi-Fi zones in community hubs, which can contribute to environmental stewardship by fostering community involvement in local governance.                                                                 |
+|       4 | Social cohesion                             | Education and capacity building                    | Education and capacity building are central to the initiative, aligning with the values of community engagement and supporting diversity. By providing workshops and fostering skill development, the project enhances social mobility and inclusion.                                                                                       |
+|       3 | Resilience                                  | Living and working environment                     | By addressing the digital divide, this project improves the living and working conditions of residents in King’s Landing, preparing them to thrive in an increasingly digital world.                                                                                                                                                        |
 
 ## **CONTEXTUAL FOUNDATION**
 
 ### **Specific Local Challenge Addressed:**
-King's Landing exhibits significant disparities in employability and access to job opportunities, particularly for youth and working-age residents. With an unemployment rate around 7%, and prevailing sentiments of exclusion among underprivileged communities, there is a pressing need for programs that equip individuals with relevant vocational skills. This project directly responds to the concerns raised about unemployment and the necessity to enhance the skills of the local workforce. The Skills for Employment Program aims to alleviate these issues through targeted training initiatives that address the gaps in the job market, preparing individuals for careers in craftsmanship, trade, and technology.
+King's Landing is facing significant disparities in digital access, particularly among low-income neighborhoods such as Flea Bottom. As stated in the assessment, many residents of these areas lack reliable internet connectivity, which inhibits their ability to access vital opportunities in e-commerce, education, and remote work. This challenge exacerbates existing social and economic inequalities, making it crucial to address these gaps. By implementing a program that provides free public Wi-Fi in high-traffic community spaces and offers digital literacy workshops, we can empower residents, fostering upward mobility and inclusivity in an increasingly digital world.
 
 ### **Local Assets Leveraged:**
-King's Landing is rife with cultural heritage and a history of craftsmanship, from skilled blacksmiths to talented artisans. The strong community networks already established in neighborhoods like Flea Bottom and the North Star Community Center serve as natural hubs for engagement and support. The existing local businesses also provide an invaluable resource for mentorship opportunities and practical training environments. By leveraging these assets, the Kings’ Craft and Trade Academy will build upon the rich tradition of craftsmanship inherent in the city, promoting economic empowerment through hands-on learning and experience.
+This initiative will build upon several existing strengths in King's Landing. With a rich tapestry of community organizations and a strong presence of innovative local businesses, these networks can play pivotal roles in executing the program. Spaces such as the North Star Community Center, known for its array of educational classes, will be key locations for digital literacy workshops. By utilizing these existing institutions and community gathering spots, we enhance what is already working, allowing for a more seamless integration of digital resources into daily life.
 
 ### **Cultural/Social Fit:**
-This initiative resonates deeply with the community’s longstanding appreciation for vocational skills and the arts. The importance of craftsmanship in the lives of local inhabitants aligns with cultural values surrounding hard work, creativity, and self-sufficiency. By honoring the traditions that have defined King’s Landing, the project enhances local identity while ensuring the training reflects the modern needs of the job market. This will encourage social cohesion, empowering residents to see value in their culture while securing livelihoods that respect their heritage.
+"Connect & Thrive" aligns perfectly with the values of the residents of King's Landing, reflecting their passion for community engagement and mutual support. The cultural mosaic of King's Landing is one filled with stories of resilience and collaboration, and this project aims to respect those traditions while promoting modern tools for communication and economic advancement. By prioritizing the voices and needs of local residents, this initiative enhances their agency and supports their aspiration to thrive in a digital landscape.
 
 ## **PROJECT DESCRIPTION**
 
-### **Core Concept:**
-The Kings’ Craft and Trade Academy will serve as a resourceful hub where residents can obtain free vocational and technical training. This initiative aims to provide skills aligned with market demands, fostering not only individual development but also community pride and economic resilience. Through a combination of hands-on training and job placement services, we envision empowering local individuals to successfully participate in the diverse economies of King’s Landing and beyond.
+### **Core Concept:** 
+"Connect & Thrive" envisions a community where all residents of King’s Landing can access the digital world without barriers. By establishing free public Wi-Fi zones in key community areas and providing essential digital literacy training, this project will empower individuals to harness technology for education, employment, and innovation, thereby invigorating the local economy and social fabric.
 
 ### **Key Components:**
-1. **Physical/Spatial Element:** The project will identify a central location within Flea Bottom, ideally within the North Star Community Center, to serve as an accessible training space outfitted for practical workshops in various crafts, trades, and technology.
-2. **Programming/Activity Element:** Sessions will include accredited courses covering essential skills in areas like carpentry, blacksmithing, sewing, coding, and sustainable business practices, led by both qualified trainers and experienced local artisans aiming to pass down their knowledge.
-3. **Community Engagement Element:** Regular community forums will ensure local voices shape the curriculum and training programs, featuring discussions on necessary skills, feedback loops, and collaborative projects that can directly engage community members in the learning process.
+1. **Physical/spatial element:** The establishment of strategically located free public Wi-Fi zones in community hotspots such as parks, libraries, and large public squares, fostering spaces where residents can gather, learn, and connect.
+   
+2. **Programming/activity element:** Hosting a series of digital literacy workshops that cover a range of topics from basic computer skills to e-commerce setup, tailored for various age groups and expertise levels. These workshops will also include sessions on navigating online job portals and applying for remote work, crucial for the local workforce.
+
+3. **Community engagement element:** Forming a “Digital Ambassadors” program where tech-savvy residents volunteer to help fellow community members, creating a supportive environment where learning is peer-led, and community bonds are strengthened.
 
 ### **Implementation Approach:**
-- **Phase 1:** Begin with organizing community meetings to identify specific skills in demand and enlist local artisans who will serve as primary instructors. Marketing efforts will promote the program, highlighting success stories from residents who have transformed their lives through vocational training.
-- **Phase 2:** Launch a pilot series of workshops on a few core skills, such as woodworking and sewing, attracting participants through incentivized engagements like tools and materials discounts for those who complete the workshops.
-- **Phase 3:** Expand offerings based on community feedback, including additional training in digital skills, trade-related knowledge, and flexible evening and weekend classes to accommodate working individuals.
+- **Phase 1:** Launch the project with an initial survey to identify community needs and existing digital skills gaps. Simultaneously, establish free public Wi-Fi connections in the highest-traffic areas, ensuring reliable access for all.
+  
+- **Phase 2:** Mobilize resources by partnering with local tech companies and institutions for the workshop series. Recruit “Digital Ambassadors” from within the community who can lead these workshops, fostering local ownership of the initiative.
+   
+- **Phase 3:** Evaluate the impact of the digital engagement efforts through feedback loops from participants. Expand outreach based on interest and effectiveness, potentially integrating additional workshops or specialized training as needs evolve.
 
 ## **STAKEHOLDER ECOSYSTEM**
 
-### **Champions:**
-Key champions for this project will include local community leaders, the North Star Community Center director, and seasoned artisans from Flea Bottom. Their voices and stories will be instrumental in rallying support and fostering community buy-in.
+### **Champions:** 
+The North Star Community Center, which has a strong history of serving local residents, can spearhead the initiative. Community leaders and technology-focused local businesses will rally support to ensure that the program achieves its potential.
 
-### **Partners:**
-Potential partnerships will span local non-profits, educational institutions to provide certifications, and businesses to support job placements and internships. Engagement with the city's existing local workforce boards can further facilitate connections between training participants and employing organizations.
+### **Partners:** 
+Collaboration will be sought with local nonprofits focused on technology access, educational institutions, and broadband providers. These partners will contribute expertise as well as physical resources to aid in establishing the Wi-Fi infrastructure.
 
-### **Beneficiaries:**
-The primary beneficiaries will be youth and working-age residents in King’s Landing, particularly those from marginalized backgrounds lacking access to traditional educational opportunities. They will gain the skills needed for better job prospects, enhancing not only their employment potential but also their sense of community participation and belonging.
+### **Beneficiaries:** 
+The primary beneficiaries will be low-income residents, particularly families and young people, who will gain access to essential digital skills and resources. Strengthening their digital literacy will allow them to pursue education, work remotely, and engage in e-commerce, thereby improving their economic situations.
 
-### **Potential Opposition:**
-Some local businesses may view this project as competition; thus, proactive measures will need to be taken for communication and cooperation. Building relationships with these businesses from the outset and emphasizing that the academy aims to augment the local economy will help mitigate concerns.
+### **Potential Opposition:** 
+Concerns may arise regarding the sustainability of maintaining Wi-Fi infrastructure or the potential for underutilization of the workshops. Addressing these concerns early through community outreach and a clear communication strategy about program goals and benefits will be essential for overcoming resistance.
 
 ## **FEASIBILITY & IMPACT**
 
 ### **Success Indicators:**
-- **Quantitative Metric:** Track the number of participants completing workshops and subsequently gaining employment or starting their own businesses within 6 months of graduation.
-- **Qualitative Metric:** Collect testimonials from participants highlighting improvements in confidence, sense of community, and life quality.
-- **Community-defined Metric:** Establish a satisfaction survey to capture community needs and ongoing feedback on program offerings, ensuring continuous improvement in line with local expectations.
+- **Quantitative metric:** The number of residents accessing public Wi-Fi within the first six months, with a target of at least 500 unique users.
+- **Qualitative metric:** Resident feedback on workshop effectiveness and engagement levels, aiming for an overall satisfaction rating of over 80%.
+- **Community-defined metric:** Increased participation rate in local job fairs or e-commerce workshops, demonstrating improved community investment in economic opportunities.
 
 ### **Ripple Effects:**
-The Kings’ Craft and Trade Academy stands to catalyze a series of positive changes, including increased employment rates within Flea Bottom, flourishing local artisans who reinvest in their communities, economic resilience through diversified skills, and improvements in overall socio-economic conditions.
+This project could catalyze other positive changes, such as increased participation in local governance as residents feel more connected and empowered. It may encourage local businesses to enhance their online presence, thus contributing to the overall economic health of King's Landing.
 
 ### **Risk Mitigation:**
-A primary risk involves fluctuating community interest and funding shortages. To mitigate this, the project will establish a sustainable funding model, potentially through small business sponsorships, grants, and alumni contributions to maintain ongoing training programs.
+The primary risk involves accessibility and technological challenges among the target demographic. To mitigate this, the initiative will partner with local organizations that specialize in technology accessibility, ensuring that training materials are comprehensible and relevant to the community’s needs.
 
 ## **LOCAL ADAPTATION NOTES**
 
 ### **What makes this project uniquely suited to this place:**
-King’s Craft and Trade Academy uniquely recognizes the traditional crafts and economic spirit woven into the fabric of King’s Landing. By addressing specific local employment barriers through hands-on learning rooted in community heritage, the project tailors vocational training to honor both the history and character of the area. 
+King’s Landing is enriched by its diverse populations and existing community structures, making a localized approach to digital access not just viable but essential. This project aligns with residents’ aspirations for enhancing their skills and economic opportunities, making it distinctly relevant to their context.
 
 ### **How locals would likely describe this project in their own words:**
-“Finally, a place where we can learn the trades our grandparents cherished, not just for a job but to keep our skills alive and make our community thrive again!” This reflects the essence of the proposal—a local initiative to rejuvenate pride and industry within Kings’ Landing while addressing contemporary challenges.
+“It's about giving folks in our neighborhoods the tools they need to keep up with the world. If we can get everyone online and show them how to use it, we can help each other out and really make something of it together.” 
+
+In conclusion, “Connect & Thrive: Digital Access for All” not only addresses an immediate need in King’s Landing but also lays the groundwork for sustained growth, engagement, and resilience in the face of the challenges our community faces. Through collective action and resource sharing, we can bridge the digital divide and foster a more inclusive future for everyone.
