@@ -1,3 +1,11 @@
+---
+layout: default
+title: Harmony Unveiled
+parent: Baraddur
+has_children: true
+nav_order: 5
+---
+
 ## **PROJECT IDENTIFICATION**
 
 ### **Project Title:** 

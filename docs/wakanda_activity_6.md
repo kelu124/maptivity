@@ -1,159 +1,100 @@
 ---
 layout: default
-title: Wakanda's portfolio
+title: Wakanda Way
 parent: Wakanda
 has_children: true
-nav_order: 5
+nav_order: 7
 ---
 
-## **INITIATIVE PORTFOLIO**
+## **PROJECT IDENTIFICATION**
 
-### **Initiative #1: Eco-Literacy Workshops**
+### **Project Title:** 
+Wakanda Way: A Path to Community Mobility
 
-**Category:** Education & Skills
-- **Scale:** Neighborhood
-- **Lead Stakeholder Type:** Non-profit
-- **Timeline:** Short (1 year)
+### **Project Type:** 
+Hybrid
 
-**What it is:** These workshops will educate community members about sustainable practices, such as energy conservation, water management, and waste reduction, utilizing local resources and technologies. Sessions will incorporate hands-on activities promoting eco-friendly living and the community's unique environmental stewardship ethos.
+### **Scale:** 
+City-wide
 
-**Why here:** Wakanda's commitment to sustainability and existing environmental assets present a prime opportunity to deepen eco-consciousness among residents, making sustainability an integral part of daily life.
+### **Timeline:** 
+Medium-term (2-3 years)
 
-**Who benefits most:** Families and children, who will learn actionable skills for sustainable living.
 
-**Quick win or deep change:** Both
 
-**Estimated complexity:** Simple
+### ISO37101 mapping for 'Equitable transportation solutions for Wakanda.'
 
+#### Scores
 
+|   Score | Purpose                                     | Issue                                              | Justification                                                                                                                                                                                                                                                                                                                                                                                                          | Scale         |
+|--------:|:--------------------------------------------|:---------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|
+|       5 | Attractiveness                              | Mobility                                           | The Wakanda Way project is designed to enhance the attractiveness of Wakanda by improving mobility options for residents. By creating a network of pedestrian-friendly streets and dedicated cycling paths, the project not only promotes accessibility but also contributes to the overall appeal of the city. This will help attract more residents, businesses, and visitors, further energizing the local economy. | Neighbourhood |
+|       5 | Social cohesion                             | Living together, interdependence and mutuality     | The project emphasizes community engagement, ensuring that marginalized voices are included in the design and implementation of transportation solutions. By fostering collaborative lifestyles and mutual support among community members, the initiative strengthens social bonds and promotes a shared sense of belonging, which is crucial for sustainable urban development.                                      | Neighbourhood |
+|       5 | Well-being                                  | Health and care in the community                   | By enhancing access to transportation, the Wakanda Way initiative aims to improve overall well-being for residents, particularly in marginalized neighborhoods. Providing safe and reliable transport options contributes to better access to services and resources, promoting healthier living conditions and improved quality of life.                                                                              | Neighbourhood |
+|       4 | Responsible resource use                    | Community smart infrastructures                    | The project leverages existing infrastructure like electric public transport and integrates sustainable practices into the development of transport options. This focus on resource efficiency and smart infrastructure aligns with responsible resource use, ensuring that the transportation network supports sustainable community development.                                                                     | Neighbourhood |
+|       4 | Resilience                                  | Mobility                                           | The Wakanda Way addresses transportation challenges in light of rapid population growth, making the initiative a key part of building resilience within the community. By preparing for and adapting to mobility issues, the project enhances the community's ability to respond to economic and social changes effectively.                                                                                           | Neighbourhood |
+|       3 | Preservation and improvement of environment | Biodiversity and ecosystem services                | The project incorporates green spaces and aims to create pedestrian-friendly pathways and cycling routes that respect and enhance local ecosystems. Such initiatives help in preserving urban biodiversity while promoting sustainable practices, contributing positively to the environmental context.                                                                                                                | Neighbourhood |
+|       4 | Attractiveness                              | Culture and community identity                     | The Wakanda Way respects local cultural practices and integrates them into the transportation network, creating a project that resonates with the community's identity. By enhancing connectivity while honoring traditional spaces, the project enriches the social fabric of Wakanda, making it more attractive to its residents.                                                                                    | Neighbourhood |
+|       4 | Well-being                                  | Economy and sustainable production and consumption | Improved access to transportation is expected to enhance economic activity within Wakanda, benefitting local businesses and creating job opportunities. By fostering sustainable patterns of mobility, the initiative supports economic diversity and sustainable consumption in the community.                                                                                                                        | Neighbourhood |
+|       3 | Resilience                                  | Safety and security                                | The project aims to improve safety in transportation by creating dedicated pathways and enhancing pedestrian routes, contributing to a safer environment for all users. Addressing these security concerns is vital for ensuring the initiative's success and fostering community confidence.                                                                                                                          | Neighbourhood |## **CONTEXTUAL FOUNDATION**
 
-### **Initiative #2: Vibranium Marketplace**
+### **Specific Local Challenge Addressed:**
+In Wakanda, the rapid population growth and urban migration have resulted in significant transportation challenges that disproportionately affect marginalized neighborhoods. Limited access to reliable and safe transportation options has hindered residents’ abilities to reach jobs, services, and community resources. Despite the community’s advanced technological capabilities and robust environmental assets, mobility inequities threaten to undermine social and economic cohesion. Residents expressed a strong desire for equitable transport solutions, which is documented in the community dynamics assessment, where concerns around accessibility were specifically highlighted in areas heavily impacted by population density and growth.
 
-**Category:** Economic Development & Local Business
-- **Scale:** City-wide
-- **Lead Stakeholder Type:** Public-Private Partnership
-- **Timeline:** Medium (2-3 years)
+### **Local Assets Leveraged:**
+Wakanda is already known for its innovative spirit and commitment to sustainability, including a growing infrastructure of electric public transport. By leveraging this foundation, along with existing green spaces like parks and community pathways, the "Wakanda Way" initiative can create a cohesive network of transport options that promote pedestrian and cyclist accessibility. The city's culture of collaboration and community involvement will also amplify the initiative's impact, as local organizations and residents rally together to contribute ideas and resources.
 
-**What it is:** This initiative will create a centralized market for local artisans and small businesses, focusing on goods and services powered by or made with vibranium and other local materials. The goal is to enhance economic vitality and foster entrepreneurship, alongside a digital platform to promote e-commerce.
+### **Cultural/Social Fit:**
+This project aligns with Wakanda’s core values of innovation, sustainability, and community engagement. The concept of the "Wakanda Way" is not just a set of paths or transport options; it is a lifeline that enhances connectivity among diverse neighborhoods while embracing the cultural practices of communal engagement. By respecting traditional meeting points and gathering spaces, the project stands to enrich existing social networks while fostering unity and mobility among its citizens.
 
-**Why here:** Given the vibranium industry's centrality to Wakanda's economy, this marketplace would leverage local resources, encourage community engagement, and support the growth of local businesses.
+## **PROJECT DESCRIPTION**
 
-**Who benefits most:** Small business owners and local artisans.
+### **Core Concept:**
+The Wakanda Way initiative aims to create an integrated mobility network that includes safe cycling paths, enhanced pedestrian walkways, and expanded electric transport options. By addressing transportation inequities, the project will improve access to key resources and services for marginalized communities, fostering inclusivity and social equity across Wakanda.
 
-**Quick win or deep change:** Both
+### **Key Components:**
+1. **Physical/spatial element:** The development of a comprehensive network of pedestrian-friendly streets and dedicated cycling paths that link diverse neighborhoods, parks, and commercial centers.
+   
+2. **Programming/activity element:** Implement community-led workshops and events focused on transportation safety, usage of electric transport, and cycling skills to encourage active participation and reduce intimidation barriers in using these new pathways.
 
-**Estimated complexity:** Moderate
+3. **Community engagement element:** Establish a community advisory board that includes residents from various neighborhoods, particularly marginalized groups, ensuring their voices shape the project’s direction and outcomes from the outset.
 
+### **Implementation Approach:**
+- Phase 1: Conduct city-wide mobility assessments to identify high-need areas and gather community feedback, creating a baseline understanding of current transportation barriers. 
+- Phase 2: Begin construction of key bicycle lanes and pedestrian pathways, focusing on priority neighborhoods identified in Phase 1. Concurrently, initiate community workshops to gather input on transportation needs and promote public safety.
+- Phase 3: Launch a city-wide marketing campaign, alongside the completed transportation network, showcasing the benefits of sustainable mobility options. Implement regular evaluations and adjustments based on usage data and community feedback.
 
+## **STAKEHOLDER ECOSYSTEM**
 
-### **Initiative #3: Community Cultural Festivals**
+### **Champions:**
+Local leaders and community advocates, such as T'Challa of the Vibranium Authority, will play a crucial role in advancing the project by inspiring community ownership and participation. Additionally, leaders from local transportation advocacy groups will help promote collaboration between residents and planners.
 
-**Category:** Arts, Culture & Heritage
-- **Scale:** District
-- **Lead Stakeholder Type:** Community Group
-- **Timeline:** Short (1 year)
+### **Partners:**
+Key partners may include the Wakandan Department of Transportation, academic institutions focused on urban planning, local businesses benefiting from improved access, and community organizations emphasizing equity in local infrastructure development.
 
-**What it is:** Multiple cultural festivals will be organized throughout the year, reflecting the diverse ethnic backgrounds of Wakanda's residents. These events will include art displays, music, food, and traditional storytelling, fostering cultural exchange and unity.
+### **Beneficiaries:**
+The primary beneficiaries will include residents of marginalized neighborhoods who struggle with transportation access, as well as families, children, and seniors who require reliable means to navigate the city. Local businesses will also benefit from increased foot traffic and customer access.
 
-**Why here:** Celebrating Wakanda's diverse cultural heritage builds community pride and social connections, addressing the goal of inclusivity among different groups.
+### **Potential Opposition:**
+Potential resistance may emerge from stakeholders concerned about the impacts on existing infrastructure or increased costs. The project leaders will mitigate these concerns by emphasizing community engagement processes and ensuring that local feedback drives decision-making, thereby ensuring that the new initiatives complement rather than disrupt current systems.
 
-**Who benefits most:** Ethnic communities and artists.
+## **FEASIBILITY & IMPACT**
 
-**Quick win or deep change:** Quick win 
+### **Success Indicators:**
+- Quantitative metric: A measurable increase in the percentage of residents using sustainable transport modes (cycling, walking, electric transport) within two years of project completion.
+- Qualitative metric: Resident feedback gathered through surveys and focus groups reporting increased satisfaction with mobility options.
+- Community-defined metric: Creation of a community-led report measuring the social and economic impacts of improved access, highlighting stories of individuals positively affected by the initiative.
 
-**Estimated complexity:** Simple
+### **Ripple Effects:**
+The project is likely to catalyze a renewed sense of community pride and ownership, bolster local businesses by attracting foot traffic, and initiate further investments in related infrastructure, such as green parks and safe public spaces for community gatherings.
 
+### **Risk Mitigation:**
+One primary risk is the potential for underutilization of the new pathways. The mitigation strategy will involve continuous community outreach efforts and promotional initiatives that actively engage residents in the use of new mobility options, fostering a culture that values active transportation modes.
 
+## **LOCAL ADAPTATION NOTES**
 
-### **Initiative #4: Green Roof Incentive Program**
+### **What makes this project uniquely suited to this place:**
+The Wakanda Way project harnesses local resources, both in terms of advanced sustainable technology and community spirit, making it distinctly tailored for the unique dynamics of Wakanda. Unlike other urban environments, Wakanda's inherent narrative of innovation and unity positions this initiative as more than just a transport solution; it embodies the community's ethos.
 
-**Category:** Green Space & Environment
-- **Scale:** Neighborhood
-- **Lead Stakeholder Type:** Government
-- **Timeline:** Medium (2-3 years)
-
-**What it is:** This program will provide subsidies or tax incentives for residents and businesses to install green roofs on their properties. The initiative will promote biodiversity, enhance aesthetics, and improve energy efficiency in buildings.
-
-**Why here:** As notable climate vulnerabilities exist, promoting green roofing will contribute to urban resilience and sustainability, aligning with Wakanda’s core values in environmental stewardship.
-
-**Who benefits most:** Property owners and the environment.
-
-**Quick win or deep change:** Systems change
-
-**Estimated complexity:** Complex
-
-
-
-### **Initiative #5: Community Resilience Hubs**
-
-**Category:** Community Safety & Resilience
-- **Scale:** Neighborhood
-- **Lead Stakeholder Type:** Government
-- **Timeline:** Immediate (< 6 months)
-
-**What it is:** Establish "resilience hubs" where community members can gather during climate-related events, offering resources such as emergency supplies, information sessions, and first aid training, bolstering the community's preparedness for environmental crises.
-
-**Why here:** With climate vulnerabilities and rapid growth presenting challenges, resilience hubs will directly support community members during environmental emergencies, enhancing cooperative strategies.
-
-**Who benefits most:** Vulnerable populations, including low-income families and seniors.
-
-**Quick win or deep change:** Quick win
-
-**Estimated complexity:** Moderate
-
-
-
-### **Initiative #6: Mobility and Access Initiative**
-
-**Category:** Mobility & Transportation
-- **Scale:** City-wide
-- **Lead Stakeholder Type:** Academic Institution
-- **Timeline:** Medium (2-3 years)
-
-**What it is:** This initiative will conduct mobility assessments to understand transportation needs and will propose the creation of safe cycling paths, pedestrian walkways, and expanded electric transport options, ensuring accessibility to various neighborhoods.
-
-**Why here:** With rapid urban migration and population growth, equitable transportation solutions are essential for ensuring all residents have access to jobs, services, and community resources.
-
-**Who benefits most:** Residents in marginalized neighborhoods.
-
-**Quick win or deep change:** Both
-
-**Estimated complexity:** Complex
-
-
-
-### **Initiative #7: Local Food Cooperative**
-
-**Category:** Food Systems
-- **Scale:** Neighborhood
-- **Lead Stakeholder Type:** Community Group
-- **Timeline:** Short (1 year)
-
-**What it is:** Establish a local food cooperative that sources produce from local farmers and supports urban gardening initiatives. This co-op will provide affordable, fresh food while allowing community members to actively participate in food production.
-
-**Why here:** Given Wakanda's commitment to sustainability and community, a food co-op will enhance food security, promote local agriculture, and reduce carbon footprint.
-
-**Who benefits most:** Low-income families and urban gardeners.
-
-**Quick win or deep change:** Quick win
-
-**Estimated complexity:** Simple
-
-
-
-## **PORTFOLIO OVERVIEW**
-
-### **Interconnections:**
-1. The **Eco-Literacy Workshops** can serve as a precursor to the **Green Roof Incentive Program** by equipping residents with knowledge on the benefits of green roofs.
-2. The **Community Cultural Festivals** will create inclusive spaces that strengthen ties among participants in the **Local Food Cooperative**, enhancing community interactions and cultural exchange.
-
-### **Sequencing Recommendation:**
-Start with the **Community Resilience Hubs** and **Local Food Cooperative** given their immediate impact on health and well-being. Following that, implementing the **Eco-Literacy Workshops** can lay a foundation for sustainable practices in the community.
-
-### **Coverage Check:**
-- **Age groups served:** Children, Youth, Working Age, Seniors
-- **Economic spectrum:** Low-income, Middle-income, Market-rate
-- **Spatial distribution:** Corridor-based (growth of interconnected initiatives across neighborhoods)
-
-### **Missing Voice:**
-While these initiatives address many needs, the voices of individuals with disabilities may still be overlooked, particularly in mobility and access initiatives. It's vital to incorporate their perspectives in planning to ensure inclusivity.
+### **How locals would likely describe this project in their own words:**
+Wakandans might say, "The Wakanda Way is not just a pathway; it’s a bridge connecting our lives to the jobs, friends, and resources we need, while honoring the spirit of our vibrant, green community."

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Volcano Ready Barad-dûr
+parent: Baraddur
+has_children: true
+nav_order: 2
+---
+
 ## **PROJECT IDENTIFICATION**
 
 ### **Project Title:**  
@@ -14,9 +22,9 @@ Quick win (3-6 months)
 
 
 
-# ISO37101 mapping for 'Community volcanic preparedness workshops.'
+### ISO37101 mapping for 'Community volcanic preparedness workshops.'
 
-## Scores
+#### Scores
 
 |   Score | Purpose                                     | Issue                                              | Justification                                                                                                                                                                                                                                                                                                                                                      | Scale         |
 |--------:|:--------------------------------------------|:---------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|

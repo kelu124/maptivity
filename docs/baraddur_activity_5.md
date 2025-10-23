@@ -1,3 +1,11 @@
+---
+layout: default
+title: Geothermal Futures
+parent: Baraddur
+has_children: true
+nav_order: 6
+---
+
 ## **PROJECT IDENTIFICATION**
 
 ### **Project Title:** 
@@ -14,9 +22,9 @@ Long-term (3+ years)
 
 
 
-# ISO37101 mapping for 'Geothermal energy initiative for Barad-dûr.'
+### ISO37101 mapping for 'Geothermal energy initiative for Barad-dûr.'
 
-## Scores
+#### Scores
 
 |   Score | Purpose                                     | Issue                                              | Justification                                                                                                                                                                                                                                                                                                                                                                     | Scale         |
 |--------:|:--------------------------------------------|:---------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|

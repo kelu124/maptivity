@@ -1,3 +1,11 @@
+---
+layout: default
+title: Gotham NextGen Innovators (GNI)
+parent: Gotham
+has_children: true
+nav_order: 4
+---
+
 ## **PROJECT IDENTIFICATION**
 
 ### **Project Title:** 
@@ -14,9 +22,9 @@ Short-term (1 year)
 
 
 
-# ISO37101 mapping for 'Empowering youth entrepreneurship in Gotham.'
+### ISO37101 mapping for 'Empowering youth entrepreneurship in Gotham.'
 
-## Scores
+#### Scores
 
 |   Score | Purpose                                     | Issue                                              | Justification                                                                                                                                                                                                                                                                                                                          | Scale         |
 |--------:|:--------------------------------------------|:---------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|

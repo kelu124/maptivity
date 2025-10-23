@@ -1,158 +1,99 @@
 ---
 layout: default
-title: Kingslanding's portfolio
+title: Kings’ Craft and Trade Academy
 parent: Kingslanding
 has_children: true
-nav_order: 3
+nav_order: 7
 ---
 
-## **INITIATIVE PORTFOLIO**
+## **PROJECT IDENTIFICATION**
 
-### **Initiative #1: Green Alley Revitalization**
+### **Project Title:** 
+Kings’ Craft and Trade Academy
 
-**Category:** Green Space & Environment  
-**Scale:** Neighborhood  
-**Lead Stakeholder Type:** Community Group  
-**Timeline:** Short (1 year)  
+### **Project Type:** 
+Social Program
 
-**What it is:** This initiative involves transforming narrow alleys in King's Landing, particularly those in Flea Bottom, into vibrant green spaces. Community members will collaborate to plant gardens, install benches, and create small gathering areas to promote social interaction and biodiversity.
+### **Scale:** 
+Neighborhood
 
-**Why here:** The rejuvenation of green spaces in Flea Bottom addresses the access disparities in environmental assets, helping to improve air quality and residents’ overall well-being while fostering community ties.
+### **Timeline:** 
+Medium-term (2-3 years)
 
-**Who benefits most:** Low-income residents of Flea Bottom and surrounding neighborhoods.  
 
-**Quick win or deep change:** Both. 
 
-**Estimated complexity:** Moderate.
+### ISO37101 mapping for 'Vocational training for community empowerment.'
 
+#### Scores
 
+|   Score | Purpose                                     | Issue                                              | Justification                                                                                                                                                                                                                                     | Scale         |
+|--------:|:--------------------------------------------|:---------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|
+|       5 | Attractiveness                              | Culture and community identity                     | The Kings’ Craft and Trade Academy leverages the rich cultural heritage of King’s Landing, which includes traditional craftsmanship and community identity, enhancing local pride and social cohesion by aligning education with cultural values. | Neighbourhood |
+|       5 | Social cohesion                             | Living together, interdependence and mutuality     | The project promotes social cohesion by providing equitable access to vocational training for underprivileged communities, fostering collaboration and mutual support among residents, which strengthens community ties.                          | Neighbourhood |
+|       4 | Well-being                                  | Health and care in the community                   | By equipping individuals with vocational skills and improving employability, the Academy contributes to personal well-being and community health, helping residents secure livelihoods and improve their quality of life.                         | Neighbourhood |
+|       4 | Responsible resource use                    | Economy and sustainable production and consumption | The Academy aims to create pathways into sustainable jobs, encouraging local production and consumption, which aligns with the ethos of economic diversity and reduced inequalities.                                                              | Neighbourhood |
+|       5 | Resilience                                  | Education and capacity building                    | The training provided by the Academy equips residents with skills that enhance their adaptability in a changing job market, fostering resilience both individually and community-wide.                                                            | Neighbourhood |
+|       3 | Preservation and improvement of environment | Innovation, creativity and research                | By incorporating modern skills training in traditional crafts, the project encourages innovative practices that respect and enhance local cultural ecology and economic sustainability.                                                           | Neighbourhood |
+|       3 | Attractiveness                              | Mobility                                           | As the Academy seeks a central location and promotes engagement through local businesses, it indirectly enhances community attractiveness through improved access to vocational opportunities.                                                    | Neighbourhood |
+|       4 | Social cohesion                             | Governance, empowerment and engagement             | The project emphasizes community engagement through local forums, empowering residents to shape the training offerings and fostering a democratic approach to educational development.                                                            | Neighbourhood |
+|       3 | Well-being                                  | Safety and security                                | By improving employability and supporting livelihoods, the Academy enhances overall community well-being, which contributes to a safer and more secure local environment.                                                                         | Neighbourhood |
+|       3 | Resilience                                  | Community smart infrastructures                    | Although primarily focused on vocational training, the Academy's potential partnerships with local businesses may lead to improvements in community infrastructure as they seek to support job placements and training.                           | Neighbourhood |## **CONTEXTUAL FOUNDATION**
 
-### **Initiative #2: Cultural Festival Series**
+### **Specific Local Challenge Addressed:**
+King's Landing exhibits significant disparities in employability and access to job opportunities, particularly for youth and working-age residents. With an unemployment rate around 7%, and prevailing sentiments of exclusion among underprivileged communities, there is a pressing need for programs that equip individuals with relevant vocational skills. This project directly responds to the concerns raised about unemployment and the necessity to enhance the skills of the local workforce. The Skills for Employment Program aims to alleviate these issues through targeted training initiatives that address the gaps in the job market, preparing individuals for careers in craftsmanship, trade, and technology.
 
-**Category:** Arts, Culture & Heritage  
-**Scale:** District  
-**Lead Stakeholder Type:** Non-profit  
-**Timeline:** Medium (2-3 years)  
+### **Local Assets Leveraged:**
+King's Landing is rife with cultural heritage and a history of craftsmanship, from skilled blacksmiths to talented artisans. The strong community networks already established in neighborhoods like Flea Bottom and the North Star Community Center serve as natural hubs for engagement and support. The existing local businesses also provide an invaluable resource for mentorship opportunities and practical training environments. By leveraging these assets, the Kings’ Craft and Trade Academy will build upon the rich tradition of craftsmanship inherent in the city, promoting economic empowerment through hands-on learning and experience.
 
-**What it is:** This series will celebrate the diverse cultural heritage of King's Landing through a series of monthly festivals showcasing food, art, music, and traditions from various ethnic groups present in the city. The events will also feature booths for local artisans.
+### **Cultural/Social Fit:**
+This initiative resonates deeply with the community’s longstanding appreciation for vocational skills and the arts. The importance of craftsmanship in the lives of local inhabitants aligns with cultural values surrounding hard work, creativity, and self-sufficiency. By honoring the traditions that have defined King’s Landing, the project enhances local identity while ensuring the training reflects the modern needs of the job market. This will encourage social cohesion, empowering residents to see value in their culture while securing livelihoods that respect their heritage.
 
-**Why here:** Hosting cultural festivals promotes social cohesion, highlights the neighborhood’s rich community dynamics, and provides a platform for underrepresented voices and traditions.
+## **PROJECT DESCRIPTION**
 
-**Who benefits most:** Cultural groups and local artisans.
+### **Core Concept:**
+The Kings’ Craft and Trade Academy will serve as a resourceful hub where residents can obtain free vocational and technical training. This initiative aims to provide skills aligned with market demands, fostering not only individual development but also community pride and economic resilience. Through a combination of hands-on training and job placement services, we envision empowering local individuals to successfully participate in the diverse economies of King’s Landing and beyond.
 
-**Quick win or deep change:** Quick win.
+### **Key Components:**
+1. **Physical/Spatial Element:** The project will identify a central location within Flea Bottom, ideally within the North Star Community Center, to serve as an accessible training space outfitted for practical workshops in various crafts, trades, and technology.
+2. **Programming/Activity Element:** Sessions will include accredited courses covering essential skills in areas like carpentry, blacksmithing, sewing, coding, and sustainable business practices, led by both qualified trainers and experienced local artisans aiming to pass down their knowledge.
+3. **Community Engagement Element:** Regular community forums will ensure local voices shape the curriculum and training programs, featuring discussions on necessary skills, feedback loops, and collaborative projects that can directly engage community members in the learning process.
 
-**Estimated complexity:** Moderate.
+### **Implementation Approach:**
+- **Phase 1:** Begin with organizing community meetings to identify specific skills in demand and enlist local artisans who will serve as primary instructors. Marketing efforts will promote the program, highlighting success stories from residents who have transformed their lives through vocational training.
+- **Phase 2:** Launch a pilot series of workshops on a few core skills, such as woodworking and sewing, attracting participants through incentivized engagements like tools and materials discounts for those who complete the workshops.
+- **Phase 3:** Expand offerings based on community feedback, including additional training in digital skills, trade-related knowledge, and flexible evening and weekend classes to accommodate working individuals.
 
+## **STAKEHOLDER ECOSYSTEM**
 
+### **Champions:**
+Key champions for this project will include local community leaders, the North Star Community Center director, and seasoned artisans from Flea Bottom. Their voices and stories will be instrumental in rallying support and fostering community buy-in.
 
-### **Initiative #3: Resilience Hub Initiative**
+### **Partners:**
+Potential partnerships will span local non-profits, educational institutions to provide certifications, and businesses to support job placements and internships. Engagement with the city's existing local workforce boards can further facilitate connections between training participants and employing organizations.
 
-**Category:** Community Safety & Resilience  
-**Scale:** City-wide  
-**Lead Stakeholder Type:** Public-Private Partnership  
-**Timeline:** Long (3+ years)  
+### **Beneficiaries:**
+The primary beneficiaries will be youth and working-age residents in King’s Landing, particularly those from marginalized backgrounds lacking access to traditional educational opportunities. They will gain the skills needed for better job prospects, enhancing not only their employment potential but also their sense of community participation and belonging.
 
-**What it is:** This initiative will design and implement resilience hubs equipped with emergency supplies, educational resources, and community meeting spaces in vulnerable areas like Flea Bottom. These hubs will prepare residents for climate-related events, fostering a culture of preparedness.
+### **Potential Opposition:**
+Some local businesses may view this project as competition; thus, proactive measures will need to be taken for communication and cooperation. Building relationships with these businesses from the outset and emphasizing that the academy aims to augment the local economy will help mitigate concerns.
 
-**Why here:** Given King’s Landing’s vulnerabilities to flooding and climate change, this initiative directly addresses community safety while promoting inclusivity and resource access.
+## **FEASIBILITY & IMPACT**
 
-**Who benefits most:** Vulnerable community members, particularly in low-income areas.
+### **Success Indicators:**
+- **Quantitative Metric:** Track the number of participants completing workshops and subsequently gaining employment or starting their own businesses within 6 months of graduation.
+- **Qualitative Metric:** Collect testimonials from participants highlighting improvements in confidence, sense of community, and life quality.
+- **Community-defined Metric:** Establish a satisfaction survey to capture community needs and ongoing feedback on program offerings, ensuring continuous improvement in line with local expectations.
 
-**Quick win or deep change:** Deep change.
+### **Ripple Effects:**
+The Kings’ Craft and Trade Academy stands to catalyze a series of positive changes, including increased employment rates within Flea Bottom, flourishing local artisans who reinvest in their communities, economic resilience through diversified skills, and improvements in overall socio-economic conditions.
 
-**Estimated complexity:** Complex.
+### **Risk Mitigation:**
+A primary risk involves fluctuating community interest and funding shortages. To mitigate this, the project will establish a sustainable funding model, potentially through small business sponsorships, grants, and alumni contributions to maintain ongoing training programs.
 
+## **LOCAL ADAPTATION NOTES**
 
+### **What makes this project uniquely suited to this place:**
+King’s Craft and Trade Academy uniquely recognizes the traditional crafts and economic spirit woven into the fabric of King’s Landing. By addressing specific local employment barriers through hands-on learning rooted in community heritage, the project tailors vocational training to honor both the history and character of the area. 
 
-### **Initiative #4: Local Business Incubator**
-
-**Category:** Economic Development & Local Business  
-**Scale:** Neighborhood  
-**Lead Stakeholder Type:** Academic Institution  
-**Timeline:** Short (1 year)  
-
-**What it is:** This incubator will provide resources, mentorship, and funding opportunities to small business owners and entrepreneurs in King's Landing, particularly targeting those from marginalized backgrounds. Programs will include workshops and networking events.
-
-**Why here:** This initiative leverages the existing entrepreneurial spirit of local artisans and businesses, fostering economic growth and providing inclusivity in a bustling trade environment.
-
-**Who benefits most:** Aspiring entrepreneurs and small business owners.
-
-**Quick win or deep change:** Both.
-
-**Estimated complexity:** Moderate.
-
-
-
-### **Initiative #5: Eco-Transportation Advocacy**
-
-**Category:** Mobility & Transportation  
-**Scale:** City-wide  
-**Lead Stakeholder Type:** Non-profit  
-**Timeline:** Short (1 year)  
-
-**What it is:** This initiative will promote alternative sustainable transportation methods such as walking, cycling, and electric carts. It will include community workshops on maintenance, safety, and encourage the development of additional bike lanes.
-
-**Why here:** With the "Horse and Cart Lane" already promoting sustainable movement, this initiative will build on existing efforts, helping reduce reliance on fossil fuels and enhancing mobility equity in urban spaces.
-
-**Who benefits most:** All residents, especially those in densely populated areas.
-
-**Quick win or deep change:** Quick win.
-
-**Estimated complexity:** Simple.
-
-
-
-### **Initiative #6: Skills for Employment Program**
-
-**Category:** Education & Skills  
-**Scale:** Neighborhood  
-**Lead Stakeholder Type:** Non-profit  
-**Timeline:** Medium (2-3 years)  
-
-**What it is:** This program will offer free vocational training and workshops tailored to the job market in King's Landing, focusing on skills such as craftsmanship, trade skills, and technology to equip the workforce for better employment opportunities.
-
-**Why here:** With a resilient job market but existing disparities, this program addresses unemployment by providing necessary skills while investing in the city's human capital.
-
-**Who benefits most:** Youth and working-age residents looking to re-enter the workforce.
-
-**Quick win or deep change:** Both. 
-
-**Estimated complexity:** Moderate.
-
-
-
-### **Initiative #7: Community Food Cooperative**
-
-**Category:** Food Systems  
-**Scale:** Neighborhood  
-**Lead Stakeholder Type:** Community Group  
-**Timeline:** Immediate (< 6 months)  
-
-**What it is:** Establishing a food cooperative will empower residents to collectively source and distribute fresh, affordable, and sustainable food products. Local farmers and merchants will be encouraged to supply the co-op.
-
-**Why here:** Given King’s Landing’s reliance on surrounding lands for food, this initiative will promote food justice and sustainability while addressing disparities in access to nutritious food.
-
-**Who benefits most:** Low- and middle-income families.
-
-**Quick win or deep change:** Quick win.
-
-**Estimated complexity:** Simple.
-
-
-
-## **PORTFOLIO OVERVIEW**
-
-### **Interconnections:**
-The Green Alley Revitalization and Cultural Festival Series can reinforce each other by utilizing newly created green spaces for festival activities, enhancing local pride and activation of communal areas. Additionally, the Local Business Incubator can collaborate with the Community Food Cooperative to provide economic opportunities for local vendors and farmers.
-
-### **Sequencing Recommendation:**
-Start with the Community Food Cooperative as an immediate priority to address food access issues. This can be followed by the Green Alley Revitalization, which can provide spaces for community gathering and collaboration for subsequent initiatives like the Cultural Festival Series.
-
-### **Coverage Check:**
-- Age groups served: Children, Youth, Working Age, Seniors
-- Economic spectrum: Low-income, Middle-income, Mixed
-- Spatial distribution: Concentrated in Flea Bottom and surrounding neighborhoods.
-
-### **Missing Voice:**
-The elderly population might still be overlooked, particularly regarding transportation-related initiatives and accessibility in community spaces. This demographic's needs must be considered to ensure full community integration and engagement.
+### **How locals would likely describe this project in their own words:**
+“Finally, a place where we can learn the trades our grandparents cherished, not just for a job but to keep our skills alive and make our community thrive again!” This reflects the essence of the proposal—a local initiative to rejuvenate pride and industry within Kings’ Landing while addressing contemporary challenges.

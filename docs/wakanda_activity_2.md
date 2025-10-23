@@ -1,159 +1,100 @@
 ---
 layout: default
-title: Wakanda's portfolio
+title: Wakanda Artisan Marketplace
 parent: Wakanda
 has_children: true
-nav_order: 5
+nav_order: 3
 ---
 
-## **INITIATIVE PORTFOLIO**
+## **PROJECT IDENTIFICATION**
 
-### **Initiative #1: Eco-Literacy Workshops**
+### **Project Title:** 
+Wakanda Artisan Marketplace: A Vibranium Emporium
 
-**Category:** Education & Skills
-- **Scale:** Neighborhood
-- **Lead Stakeholder Type:** Non-profit
-- **Timeline:** Short (1 year)
+### **Project Type:** 
+Economic Development 
 
-**What it is:** These workshops will educate community members about sustainable practices, such as energy conservation, water management, and waste reduction, utilizing local resources and technologies. Sessions will incorporate hands-on activities promoting eco-friendly living and the community's unique environmental stewardship ethos.
+### **Scale:** 
+City-wide
 
-**Why here:** Wakanda's commitment to sustainability and existing environmental assets present a prime opportunity to deepen eco-consciousness among residents, making sustainability an integral part of daily life.
+### **Timeline:** 
+Medium-term (2-3 years)
 
-**Who benefits most:** Families and children, who will learn actionable skills for sustainable living.
 
-**Quick win or deep change:** Both
 
-**Estimated complexity:** Simple
+### ISO37101 mapping for 'Wakanda's artisan marketplace project.'
 
+#### Scores
 
+|   Score | Purpose                                     | Issue                                              | Justification                                                                                                                                                                                                                                              | Scale         |
+|--------:|:--------------------------------------------|:---------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|
+|       5 | Attractiveness                              | Culture and community identity                     | The Wakanda Artisan Marketplace celebrates local craftsmanship and cultural heritage, enhancing community identity and attractiveness by providing a vibrant space where artisans can showcase their work, thereby attracting both residents and visitors. | Neighbourhood |
+|       4 | Preservation and improvement of environment | Biodiversity and ecosystem services                | The marketplace’s design incorporates sustainable architectural principles and uses locally sourced materials, which contributes to environmental preservation and enhances the ecosystem by creating green spaces.                                        | Building      |
+|       4 | Resilience                                  | Economy and sustainable production and consumption | The project supports local economic resilience by providing a centralized marketplace for artisans, diversifying income sources, and distributing products sustainably, thereby adapting to economic changes.                                              | Neighbourhood |
+|       5 | Responsible resource use                    | Living and working environment                     | The integration of vibranium technology and sustainable practices within the marketplace design highlights responsible resource use, ensuring that the space is both functional and environmentally conscious.                                             | Building      |
+|       5 | Social cohesion                             | Living together, interdependence and mutuality     | By fostering community engagement and cooperation among local artisans, the marketplace promotes social integration and a sense of belonging, creating strong interdependence within the community.                                                        | Neighbourhood |
+|       4 | Well-being                                  | Health and care in the community                   | The marketplace aims to create a vibrant environment that promotes both mental and physical well-being by providing a space for community interaction and access to local products.                                                                        | Neighbourhood |
+|       4 | Attractiveness                              | Education and capacity building                    | Regular programming that includes workshops and cultural events highlights the importance of skill development and knowledge sharing, making the marketplace not just a retail space but also an educational hub.                                          | Neighbourhood |
+|       4 | Attractiveness                              | Governance, empowerment and engagement             | The establishment of a cooperative governing body ensures that the local community has a voice in the marketplace operations, promoting empowerment and transparent governance.                                                                            | Neighbourhood |
+|       4 | Preservation and improvement of environment | Community smart infrastructures                    | The emphasis on integrating sustainable practices and modern technology in the marketplace’s infrastructure supports the broader goal of improving community services and environmental standards.                                                         | Building      |## **CONTEXTUAL FOUNDATION**
 
-### **Initiative #2: Vibranium Marketplace**
+### **Specific Local Challenge Addressed:**
+Wakanda is experiencing rapid economic growth, largely due to the vibranium industry and the increasing demand for local artisan goods. Despite this growth, small business owners and artisans find it difficult to secure dedicated spaces that showcase their work and attract customers. The challenge lies in creating a centralized marketplace that both promotes local craftsmanship and fosters community engagement while supporting the diverse economic landscape. This aligns with existing sentiments regarding the need for equitable economic opportunities, as some marginalized communities are currently left out of the economic boom, facing barriers to market access.
 
-**Category:** Economic Development & Local Business
-- **Scale:** City-wide
-- **Lead Stakeholder Type:** Public-Private Partnership
-- **Timeline:** Medium (2-3 years)
+### **Local Assets Leveraged:**
+Wakanda is rich in cultural heritage and artisanal craftsmanship, with numerous talented artisans already creating unique products from vibranium and other indigenous materials. Local trade networks, community organizations focused on entrepreneurship, and the nation’s commitment to technological innovation further empower this initiative. By drawing on these strengths, the marketplace will not only serve as a retail space but also as a hub for local entrepreneurship, engaged community interaction, and cultural celebration.
 
-**What it is:** This initiative will create a centralized market for local artisans and small businesses, focusing on goods and services powered by or made with vibranium and other local materials. The goal is to enhance economic vitality and foster entrepreneurship, alongside a digital platform to promote e-commerce.
+### **Cultural/Social Fit:**
+The plan for a centralized marketplace respects Wakanda's cultural values surrounding community, tradition, and innovation. It will celebrate the artisanal crafts and products inherent to Wakanda's identity, thus deepening pride in local culture. Additionally, fostering entrepreneurship aligns with the community's aspirations for inclusivity and equity within economic opportunities. By creating a vibrant scene where local artisans can thrive, this initiative meets the desire for a stronger, unified community.
 
-**Why here:** Given the vibranium industry's centrality to Wakanda's economy, this marketplace would leverage local resources, encourage community engagement, and support the growth of local businesses.
+## **PROJECT DESCRIPTION**
 
-**Who benefits most:** Small business owners and local artisans.
+### **Core Concept:** 
+The Wakanda Artisan Marketplace will serve as a dynamic hub where local artisans can sell their crafts, engage with the community, and participate in workshops that promote skills and cultural exchange. Powered by vibranium technology, the marketplace will create an immersive shopping experience that highlights sustainable practices, while also developing a digital platform for e-commerce to expand market reach and enhance transactions.
 
-**Quick win or deep change:** Both
+### **Key Components:**
+1. The physical space of the marketplace will feature constructed stalls and pop-up retail areas designed with sustainable architectural principles, using locally sourced vibranium composites and traditional design aesthetics. Green spaces will be integrated to create an inviting environment for visitors.
+2. Regular programming will incorporate artisan-led workshops and cultural events that showcase the diverse skills and stories of Wakanda’s artisans, creating opportunities for learning and sharing.
+3. Community engagement will involve the establishment of a cooperative governing body composed of local artisans, community leaders, and stakeholders who will oversee the operations, ensuring that the marketplace reflects the values and interests of the community.
 
-**Estimated complexity:** Moderate
+### **Implementation Approach:**
+- Phase 1: Conduct a needs assessment involving local artisans and businesses to gather insights on desired features, programming, and marketplace design. Engage stakeholders through community meetings to ensure the project meets local aspirations.
+- Phase 2: Begin the design and construction of the marketplace with the input from artisans, focusing on creating a vibrant, welcoming atmosphere that respects both modern and traditional aesthetics. Launch marketing efforts that emphasize local talent and sustainability.
+- Phase 3: Open the marketplace with a grand event that showcases various offerings from local artisans, alongside performances, food tastings, and cultural storytelling sessions to attract both residents and visitors. Implement ongoing evaluation mechanisms to adapt programming and support for artisans as circumstances evolve.
 
+## **STAKEHOLDER ECOSYSTEM**
 
+### **Champions:** 
+Local artisans, trade associations, and cultural groups will spearhead this project, with community leaders such as chief T'Challa serving as a vocal advocate, emphasizing the importance of inclusivity and cultural heritage.
 
-### **Initiative #3: Community Cultural Festivals**
+### **Partners:** 
+Support from local governments, economic development agencies, educational institutions, and non-profit organizations focused on entrepreneurship will be essential. They can assist with resources, training, and funding opportunities.
 
-**Category:** Arts, Culture & Heritage
-- **Scale:** District
-- **Lead Stakeholder Type:** Community Group
-- **Timeline:** Short (1 year)
+### **Beneficiaries:** 
+Small business owners and artisans will gain direct access to customers and community support, enhancing their visibility and profitability. Additionally, residents and visitors will benefit from increased access to unique, locally made products and vibrant cultural experiences.
 
-**What it is:** Multiple cultural festivals will be organized throughout the year, reflecting the diverse ethnic backgrounds of Wakanda's residents. These events will include art displays, music, food, and traditional storytelling, fostering cultural exchange and unity.
+### **Potential Opposition:** 
+Concerns may arise from individuals in traditional retail sectors or those worried about economic competition. Engaging local stakeholders during the planning and implementation phases can mitigate opposition by ensuring that all voices are heard and that the marketplace complements existing businesses rather than competitively jeopardizes them.
 
-**Why here:** Celebrating Wakanda's diverse cultural heritage builds community pride and social connections, addressing the goal of inclusivity among different groups.
+## **FEASIBILITY & IMPACT**
 
-**Who benefits most:** Ethnic communities and artists.
+### **Success Indicators:**
+- Quantitative metrics will involve tracking the number of participating artisans, sales transactions, and visitors to the marketplace, alongside measuring increased foot traffic in surrounding areas.
+- Qualitative metrics will involve regular feedback from artisans and customers regarding their experiences and satisfaction with the marketplace.
+- A community-defined metric could include surveys assessing the perceived economic impact on local artisans and businesses derived from increased engagement and marketplace activities.
 
-**Quick win or deep change:** Quick win 
+### **Ripple Effects:**
+This project has the potential to enhance community cohesion by fostering a culture of collaboration among local businesses while also stimulating tourism and attracting investment. The marketplace could inspire further investment in local infrastructure and initiate partnerships for future community projects centered around sustainability and cultural celebration.
 
-**Estimated complexity:** Simple
+### **Risk Mitigation:**
+One primary risk involves potential economic fluctuations impacting the demand for artisan goods. Creating a diverse product offering and expanding market access through a digital platform will mitigate this risk by reaching wider audiences and increasing sales avenues.
 
+## **LOCAL ADAPTATION NOTES**
 
+### **What makes this project uniquely suited to this place:**
+The marketplace draws directly from Wakanda's rich artisanal traditions, integrating the vibranium industry's strengths while leveraging a deeply rooted cultural connection to community identity. Unlike generic commercial spaces, this project emphasizes local heritage, technological innovation, and sustainable practices, creating an environment that is uniquely Wakandan.
 
-### **Initiative #4: Green Roof Incentive Program**
+### **How locals would likely describe this project in their own words:**
+“It's like a gathering of our stories, where the vibrancy of our history meets the energy of our future—bringing together our artisans, our people, and all that makes Wakanda beautiful.” 
 
-**Category:** Green Space & Environment
-- **Scale:** Neighborhood
-- **Lead Stakeholder Type:** Government
-- **Timeline:** Medium (2-3 years)
-
-**What it is:** This program will provide subsidies or tax incentives for residents and businesses to install green roofs on their properties. The initiative will promote biodiversity, enhance aesthetics, and improve energy efficiency in buildings.
-
-**Why here:** As notable climate vulnerabilities exist, promoting green roofing will contribute to urban resilience and sustainability, aligning with Wakanda’s core values in environmental stewardship.
-
-**Who benefits most:** Property owners and the environment.
-
-**Quick win or deep change:** Systems change
-
-**Estimated complexity:** Complex
-
-
-
-### **Initiative #5: Community Resilience Hubs**
-
-**Category:** Community Safety & Resilience
-- **Scale:** Neighborhood
-- **Lead Stakeholder Type:** Government
-- **Timeline:** Immediate (< 6 months)
-
-**What it is:** Establish "resilience hubs" where community members can gather during climate-related events, offering resources such as emergency supplies, information sessions, and first aid training, bolstering the community's preparedness for environmental crises.
-
-**Why here:** With climate vulnerabilities and rapid growth presenting challenges, resilience hubs will directly support community members during environmental emergencies, enhancing cooperative strategies.
-
-**Who benefits most:** Vulnerable populations, including low-income families and seniors.
-
-**Quick win or deep change:** Quick win
-
-**Estimated complexity:** Moderate
-
-
-
-### **Initiative #6: Mobility and Access Initiative**
-
-**Category:** Mobility & Transportation
-- **Scale:** City-wide
-- **Lead Stakeholder Type:** Academic Institution
-- **Timeline:** Medium (2-3 years)
-
-**What it is:** This initiative will conduct mobility assessments to understand transportation needs and will propose the creation of safe cycling paths, pedestrian walkways, and expanded electric transport options, ensuring accessibility to various neighborhoods.
-
-**Why here:** With rapid urban migration and population growth, equitable transportation solutions are essential for ensuring all residents have access to jobs, services, and community resources.
-
-**Who benefits most:** Residents in marginalized neighborhoods.
-
-**Quick win or deep change:** Both
-
-**Estimated complexity:** Complex
-
-
-
-### **Initiative #7: Local Food Cooperative**
-
-**Category:** Food Systems
-- **Scale:** Neighborhood
-- **Lead Stakeholder Type:** Community Group
-- **Timeline:** Short (1 year)
-
-**What it is:** Establish a local food cooperative that sources produce from local farmers and supports urban gardening initiatives. This co-op will provide affordable, fresh food while allowing community members to actively participate in food production.
-
-**Why here:** Given Wakanda's commitment to sustainability and community, a food co-op will enhance food security, promote local agriculture, and reduce carbon footprint.
-
-**Who benefits most:** Low-income families and urban gardeners.
-
-**Quick win or deep change:** Quick win
-
-**Estimated complexity:** Simple
-
-
-
-## **PORTFOLIO OVERVIEW**
-
-### **Interconnections:**
-1. The **Eco-Literacy Workshops** can serve as a precursor to the **Green Roof Incentive Program** by equipping residents with knowledge on the benefits of green roofs.
-2. The **Community Cultural Festivals** will create inclusive spaces that strengthen ties among participants in the **Local Food Cooperative**, enhancing community interactions and cultural exchange.
-
-### **Sequencing Recommendation:**
-Start with the **Community Resilience Hubs** and **Local Food Cooperative** given their immediate impact on health and well-being. Following that, implementing the **Eco-Literacy Workshops** can lay a foundation for sustainable practices in the community.
-
-### **Coverage Check:**
-- **Age groups served:** Children, Youth, Working Age, Seniors
-- **Economic spectrum:** Low-income, Middle-income, Market-rate
-- **Spatial distribution:** Corridor-based (growth of interconnected initiatives across neighborhoods)
-
-### **Missing Voice:**
-While these initiatives address many needs, the voices of individuals with disabilities may still be overlooked, particularly in mobility and access initiatives. It's vital to incorporate their perspectives in planning to ensure inclusivity.
+This initiative is not just a market; it’s a celebration of who we are, a place where our finest local talents shine, and where the spirit of our community flourishes.

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Gotham Greenway Initiative
+parent: Gotham
+has_children: true
+nav_order: 2
+---
+
 ## **PROJECT IDENTIFICATION**
 
 ### **Project Title:** 
@@ -16,9 +24,9 @@ Medium-term (2-3 years)
 
 
 
-# ISO37101 mapping for 'Gotham Greenway Initiative enhances urban environment.'
+### ISO37101 mapping for 'Gotham Greenway Initiative enhances urban environment.'
 
-## Scores
+#### Scores
 
 |   Score | Purpose                                     | Issue                                              | Justification                                                                                                                                                                                                                                                                                                                                                             | Scale         |
 |--------:|:--------------------------------------------|:---------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|

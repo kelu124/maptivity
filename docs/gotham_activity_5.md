@@ -1,3 +1,11 @@
+---
+layout: default
+title: Gotham Affordable Living Initiative
+parent: Gotham
+has_children: true
+nav_order: 6
+---
+
 ## **PROJECT IDENTIFICATION**
 
 ### **Project Title:**
@@ -14,9 +22,9 @@ Long-term (3+ years)
 
 
 
-# ISO37101 mapping for 'Gotham's affordable housing initiative.'
+### ISO37101 mapping for 'Gotham's affordable housing initiative.'
 
-## Scores
+#### Scores
 
 |   Score | Purpose                                     | Issue                                              | Justification                                                                                                                                                                                                                                                                                                                         | Scale         |
 |--------:|:--------------------------------------------|:---------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|

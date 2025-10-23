@@ -1,3 +1,11 @@
+---
+layout: default
+title: Gotham Resilience Network (GRN)
+parent: Gotham
+has_children: true
+nav_order: 3
+---
+
 ## **PROJECT IDENTIFICATION**
 
 ### **Project Title:** 
@@ -14,9 +22,9 @@ Short-term (1 year)
 
 
 
-# ISO37101 mapping for 'Gotham Resilience Network: community preparedness initiative.'
+### ISO37101 mapping for 'Gotham Resilience Network: community preparedness initiative.'
 
-## Scores
+#### Scores
 
 |   Score | Purpose                                     | Issue                                              | Justification                                                                                                                                                                                                                                                                                                                                                        | Scale         |
 |--------:|:--------------------------------------------|:---------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|
