@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Ashen Roots Community Garden
+title: Restoring the Ashen Oasis
 parent: Baraddur
 has_children: true
 nav_order: 2
@@ -9,95 +9,79 @@ nav_order: 2
 ## **PROJECT IDENTIFICATION**
 
 ### **Project Title:** 
-The Ashen Roots Community Garden
+"Restoring the Ashen Oasis: Barad-dûr's Green Heart"
 
 ### **Project Type:** 
-Environmental
+Environmental / Community Space
 
 ### **Scale:** 
 Neighborhood
 
 ### **Timeline:** 
-Quick win (3-6 months)
+Short-term (1 year)
 
-
-
-### ISO37101 mapping for 'Community garden fostering local engagement.'
-
-#### Scores
-
-|   Score | Purpose                                     | Issue                                              | Justification                                                                                                                                                                                                                                                                                                                                                                                              |
-|--------:|:--------------------------------------------|:---------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       5 | Attractiveness                              | Culture and community identity                     | The Ashen Roots Community Garden is designed to promote a sense of belonging and identity among residents by encouraging them to engage in communal gardening and cultural food-sharing events. This initiative not only enhances the local culture but also represents the community's commitment to sustainability and eco-awareness, reflecting Barad-dûr’s diverse demographic and cultural practices. |
-|       5 | Preservation and improvement of environment | Biodiversity and ecosystem services                | The garden aims to promote biodiversity through the cultivation of local flora that thrives in the unique volcanic soil of Barad-dûr. This initiative enhances ecosystem services by utilizing native plant species, which can contribute to local ecological balance and environmental education, underscoring the importance of preserving local biodiversity.                                           |
-|       5 | Social cohesion                             | Living together, interdependence and mutuality     | By creating a communal gardening space, the project fosters social ties and unity among residents. Activities such as volunteer planting, workshops, and communal harvesting events encourage collaboration and mutual support, helping to create a stronger sense of community and interdependence among diverse groups within Barad-dûr.                                                                 |
-|       5 | Well-being                                  | Health and care in the community                   | The garden enhances community well-being by improving access to fresh produce and providing educational workshops related to gardening and healthy eating. This initiative promotes physical and mental health through engaging activities, contributing to a vibrant community environment that supports overall well-being.                                                                              |
-|       4 | Responsible resource use                    | Economy and sustainable production and consumption | The project emphasizes sustainable gardening practices, utilizing local species to minimize resource use and encourage ecological conservation. It supports responsible consumption by increasing access to fresh produce, which enables residents to engage in sustainable food production and consumption practices.                                                                                     |
-|       4 | Resilience                                  | Governance, empowerment and engagement             | The community garden project builds resilience by empowering residents to participate in decision-making processes regarding garden design and management. Through community visioning meetings and workshops, residents are actively engaged, fostering a sense of ownership that enhances their ability to adapt to local environmental challenges.                                                      |
-|       4 | Attractiveness                              | Living and working environment                     | The establishment of the garden creates a greener, more attractive neighborhood that enhances the quality of life for residents in Barad-dûr. By providing a space for gardening and social interaction, the initiative contributes positively to the living and working environment, making the area more appealing for residents and visitors alike.                                                     |
-|       4 | Preservation and improvement of environment | Community smart infrastructures                    | The garden serves as an infrastructure for promoting environmental education and biodiversity preservation, utilizing community input to design educational spaces about local ecology and sustainability practices. This initiative strengthens community connections while enhancing local ecological knowledge within an engaging neighborhood setting.                                                 |
-|       4 | Social cohesion                             | Education and capacity building                    | Through workshops and community events, the garden fosters education and skill development in gardening practices, creating opportunities for capacity building among residents. This initiative encourages knowledge sharing and helps strengthen community ties, promoting social cohesion through collective learning experiences.                                                                      |
-|       3 | Well-being                                  | Innovation, creativity and research                | This project promotes innovative practices in gardening tailored to the unique conditions of Barad-dûr's volcanic soil. By utilizing local flora and involving residents in educational workshops, the initiative encourages creative problem-solving around food production and environmental sustainability, ultimately contributing to overall community well-being.                                    |
-
-## **CONTEXTUAL FOUNDATION**
+## **CONTEXUAL FOUNDATION**
 
 ### **Specific Local Challenge Addressed:**
-In Barad-dûr, many residents, especially those from lower-income backgrounds, face challenges related to access to fresh produce and safe recreational spaces. The existing urban environment, heavily influenced by its volcanic landscape, often lacks green facilities where families can grow their own food and connect with nature. As highlighted in the neighborhood report, local voices express a desire for community spaces that foster both environmental sustainability and opportunities for social interaction. Furthermore, the need for environmental education is accentuated by the incidence of environmental hazards that disproportionately affect these communities. Establishing The Ashen Roots Community Garden directly addresses these issues by providing a localized space for growing food, fostering community engagement, and promoting biodiversity through the unique local flora adapted to the region's volcanic soil.
+The initiative "Restoring the Ashen Oasis" aims to tackle the significant lack of accessible, safe green spaces in Barad-dûr. Residents have expressed their desire for parks and areas where children can play and families can gather, contrasting sharply with their daily surroundings of dark towers and harsh volcanic landscapes. Elda, a local resident, poignantly mentions, “We want our children to play in safe parks, not just beneath looming towers,” highlighting the urgent need for open spaces that foster community and well-being.
 
 ### **Local Assets Leveraged:**
-The Ashen Fields, already showcasing biodiversity in the form of unique plants, serve as an existing ecological asset that can be utilized for educational purposes. The presence of community organizations advocating for eco-education and sustainable practices provides a strong basis for grassroots mobilization. Moreover, the intricate community dynamics in Barad-dûr—ranging from scholars to artisans—can help cultivate a sense of ownership and stewardship among residents, enhancing their connection to the garden and creating enthusiasm around the initiative.
+This project builds upon the inherent strengths of Barad-dûr, including the Ashen Fields, which showcase unique flora adapted to the harsh realities of the Mordorian landscape. By revitalizing this area, we not only focus on the environmental assets that exist in the neighborhood but also engage the vibrant community deeply invested in cultivating gardens and improving their living environment. The pre-existing enthusiasm for sustainable practices among community members can drive the project forward, ensuring both relevance and local ownership.
 
 ### **Cultural/Social Fit:**
-This initiative aligns well with the local commitment to sustainability and eco-awareness expressed by community members. The garden can become a tangible representation of these values, encouraging practices of self-sufficiency and environmental stewardship. Furthermore, the project respects and enhances local cultural practices associated with gardening and communal living, fostering the rich tapestry of Barad-dûr’s diverse demographic.
+"Restoring the Ashen Oasis" resonates deeply with the values of Barad-dûr's diverse residents. Given the eclectic community composed of Humans, Elves, and Dwarves, the initiative respects and enhances local traditions surrounding communal gathering and stewardship of land. It can serve as a cultural hub highlighting local flora, crafts, and social practices, ultimately fostering a sense of belonging and enhancing community pride.
 
 ## **PROJECT DESCRIPTION**
 
-### **Core Concept:** 
-The Ashen Roots Community Garden aims to develop a communal gardening space where local residents can cultivate edible and decorative plants that thrive in the unique volcanic soil of the region. By engaging the community in gardening education and eco-education workshops, this initiative seeks to strengthen social ties, improve access to fresh produce, and promote sustainable environmental practices.
+### **Core Concept:**
+The "Restoring the Ashen Oasis" initiative envisions transforming select areas of the Ashen Fields into vibrant, accessible green spaces that include community gardens, play areas, and serene spots for relaxation. This initiative will leverage native, drought-resistant flora to enhance biodiversity while directly addressing the community's need for safe and engaging places for social interaction and leisure.
 
 ### **Key Components:**
-1. **Physical/spatial element:** Designate a vacant lot in Barad-dûr for the community garden, featuring individual plot spaces, communal areas for educational activities, and demonstration gardens that showcase local flora.
-2. **Programming/activity element:** Organize regular gardening workshops that teach residents about soil management, plant care, and sustainable gardening practices, utilizing local plant species.
-3. **Community engagement element:** Host community events and gatherings in the garden space to foster connections among residents, share gardening experiences, and celebrate cultural diversity through food-sharing events.
+1. **Physical/spatial element:** The construction of community gardens incorporating drought-resistant plants that reflect local ecology, alongside playgrounds and shaded picnic areas, providing varied recreational opportunities.
+   
+2. **Programming/activity element:** Regular community gardening days will be organized, where residents can learn about ecosystem restoration, sustainable gardening practices, and the history of the native plants. Workshops will also be offered on topics ranging from sustainability to herbalism using local plants.
+
+3. **Community engagement element:** A series of community meetings will be conducted to gather input and insights from local residents, ensuring their needs and ideas shape the revitalization process. These meetings will foster a sense of ownership, empowerment, and inclusive participation among diverse community members.
 
 ### **Implementation Approach:**
-- **Phase 1:** Within the first three months, conduct community visioning meetings to gather input on garden design, specific plant species, and program offerings. Following this, prepare the designated lot, install fencing, and create basic infrastructure such as water access and tools.
-- **Phase 2:** Launch the first gardening workshops within the following three months while initiating a volunteer program that invites residents to help plant and maintain the garden. Diversify offerings by including cooking classes using harvested produce.
-- **Phase 3:** Transition the garden into a fully operational community space within six months, incorporating art installations reflecting local culture and placing educational signage about local ecology and sustainability practices.
+- **Phase 1:** Initial community outreach will begin with stakeholder meetings, allowing residents to suggest ideas for green space use. These gatherings will connect families with local experts to share knowledge about sustainable practices.
+  
+- **Phase 2:** Following the feedback process, residents will participate in the design and planning of the gardens, with local landscape architects integrating community suggestions into the final plans.
+  
+- **Phase 3:** Construction and planting will commence with community-led events. Garden installations will include not only flora but also installations highlighting Barad-dûr's cultural narratives, thereby creating an engaging and educational environment.
 
 ## **STAKEHOLDER ECOSYSTEM**
 
-### **Champions:** 
-Local community leaders, environmental advocates, and schools, particularly leaders from community organizations already working in eco-education, such as Elda’s group focused on sustainable practices.
+### **Champions:**
+The initiative will be championed by community leaders who are already engaged in local environmental and social initiatives. This includes community organizers from the "Together We Rise" program, who can facilitate resources and connections.
 
-### **Partners:** 
-Collaborate with local nonprofits dedicated to agricultural education, local businesses for sponsorship and resources, and municipal government for support in terms of land use and infrastructure.
+### **Partners:**
+Key partnerships will involve local NGOs focused on environmental sustainability, schools for educational collaboration, and landscape architects experienced in green infrastructure. These partnerships create a strong support network, enabling shared resources and expertise.
 
-### **Beneficiaries:** 
-Families with children and low-income residents will directly benefit by gaining access to fresh produce and educational workshops that enhance their food security and gardening skills. Additionally, the broader community will experience heightened social cohesion through collaborative gardening efforts.
+### **Beneficiaries:**
+Families, particularly those with young children, will benefit directly from the new green spaces, alongside all residents seeking safe communal areas. The initiative will also empower local artisans and eco-educators by providing them opportunities to conduct workshops and promote local crafts.
 
-### **Potential Opposition:** 
-Some residents may be concerned about potential increases in foot traffic or the loss of the vacant lot's current use. These concerns may be addressed through clear communication demonstrating the benefits of a community garden and its potential to enhance property values while promoting community well-being.
+### **Potential Opposition:**
+Possible resistance may come from property developers prioritizing commercial interests over community spaces. Addressing these concerns involves demonstrating the long-term economic benefits of community green spaces, including enhanced property values and reduced urban heat, thus appealing to broader economic interests.
 
 ## **FEASIBILITY & IMPACT**
 
 ### **Success Indicators:**
-- **Quantitative metric:** Number of community members participating in workshops and contributing to garden maintenance.
-- **Qualitative metric:** Resident feedback collected through surveys, highlighting satisfaction with the garden and participation feelings.
-- **Community-defined metric:** Establish a garden committee that will set success criteria, such as the quantity of produce harvested or increased participation in local events.
+To measure success, the project will track the following metrics: 
+- Quantitative metric: Number of new green spaces created and percentage increase in community garden participation.
+- Qualitative metric: Residents' reported satisfaction with the new spaces through surveys and feedback after six months.
+- Community-defined metric: The number of community-led events held in the new green spaces, indicating active community engagement.
 
-### **Ripple Effects:** 
-The success of The Ashen Roots Community Garden could inspire the establishment of additional green spaces in Barad-dûr, creating a network of community gardens that further enhance food security, social interaction, and local biodiversity. It could also pave the way for more comprehensive programs related to environmental education and sustainability across the neighborhood.
+### **Ripple Effects:**
+The revitalization of the Ashen Fields is expected to catalyze an increase in social cohesion, reduced isolation among residents, and the potential for local businesses to thrive with increased foot traffic. Moreover, this initiative could inspire similar green projects throughout Barad-dûr, shifting perceptions on space use and environmental care in the city.
 
-### **Risk Mitigation:** 
-One primary risk involves potential vandalism or neglect of the garden space. Mitigation strategies will include establishing a community garden stewardship program that fosters ownership among residents and promotes regular involvement in gardening activities to keep the space vibrant and utilized.
+### **Risk Mitigation:**
+The primary risk lies in potential vandalism or maintenance challenges. Establishing a community stewardship program, where local residents adopt parts of the green space for ongoing care, will be a crucial strategy to ensure sustainability and encourage community investment.
 
 ## **LOCAL ADAPTATION NOTES**
 
 ### **What makes this project uniquely suited to this place:**
-The Ashen Roots Community Garden captures the essence of Barad-dûr’s unique attributes, from its volcanic soil enabling resilience in local flora to the eclectic cultural tapestry of its inhabitants. Unlike traditional gardens in other urban spaces, this initiative will specifically draw on local species adapted to harsh conditions, fostering both ecological awareness and an appreciation of the distinct environment Barad-dûr embodies.
+This initiative draws on the unique environmental context and cultural identity of Barad-dûr. The integration of drought-resistant native plants respects local ecological knowledge and strengthens community ties to land while leveraging local cultural narratives for educational purposes.
 
 ### **How locals would likely describe this project in their own words:**
-Residents might say, “Finally, we have a green space where we can grow food together! Not only will we learn how to farm in our own way, but we can also share the harvest and have fun with our neighbors—this is just what we need!” 
-
-This project presents rich opportunities for Barad-dûr’s residents to cultivate not only plants but also their sense of community, equity, and environmental stewardship, making it a transformative addition to the neighborhood.
+Residents might describe the "Restoring the Ashen Oasis" project as “our green heartbeat”, reflecting the hope of creating a safe, lively space for everyone to enjoy, connect, and grow together amid the dark towers—a true oasis in the heart of Barad-dûr.
