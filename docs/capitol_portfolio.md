@@ -10,144 +10,145 @@ nav_order: 1
 
 ## **INITIATIVE PORTFOLIO**
 
-### **Initiative #1: Urban Green Networks**
-
-**Category:** Green Space & Environment  
-**Scale:** District  
-**Lead Stakeholder Type:** Public-Private Partnership  
-**Timeline:** Medium (2-3 years)  
-
-**What it is:** This initiative seeks to create a network of interconnected green spaces throughout The Capitol, linking parks, gardens, and public squares. By developing eco-corridors that enhance biodiversity and improve air quality, these green spaces will serve not only as recreational areas but also as critical ecological resources that promote urban resilience.
-
-**Why here:** The Capitol already possesses several green assets, which can be utilized to enhance connections between communities, particularly for marginalized populations who have limited access to such spaces.
-
-**Who benefits most:** Residents in lower-income areas who have less access to parks and recreational opportunities.
-
-**Quick win or deep change:** Both  
-**Estimated complexity:** Moderate  
-
-
-
-### **Initiative #2: Skills for the Future**
-
-**Category:** Education & Skills  
-**Scale:** Neighborhood  
-**Lead Stakeholder Type:** Non-profit  
-**Timeline:** Short (1 year)  
-
-**What it is:** This initiative focuses on establishing skill-building workshops and vocational training programs in community centers throughout The Capitol. Topics may include digital literacy, green technology, and creative arts, designed to empower residents with valuable skills to improve their employability in the changing landscape.
-
-**Why here:** The Capitol's employment landscape reveals a need for upskilling, particularly for those stuck in low-wage service roles. This initiative will help bridge the gap for newly migrated residents seeking better job opportunities.
-
-**Who benefits most:** Youth and working-age adults from impoverished districts.
-
-**Quick win or deep change:** Quick win  
-**Estimated complexity:** Simple  
-
-
-
-### **Initiative #3: Affordable Housing Co-ops**
-
-**Category:** Housing & Built Environment  
-**Scale:** City-wide  
-**Lead Stakeholder Type:** Community Group  
-**Timeline:** Long (3+ years)  
-
-**What it is:** This initiative will develop community-led affordable housing cooperatives, allowing residents to collectively manage their housing situation, ensuring affordability and stability while fostering community engagement. This can be achieved through securing land leases and resources from local government.
-
-**Why here:** The Capitol faces significant gentrification and increasing costs of living. Establishing cooperatives offers a sustainable solution to address these challenges directly within the community.
-
-**Who benefits most:** Low-income families and marginalized populations.
-
-**Quick win or deep change:** Deep change  
-**Estimated complexity:** Complex  
-
-
-
-### **Initiative #4: Cultural Convergence Festivals**
-
-**Category:** Arts, Culture & Heritage  
-**Scale:** City-wide  
-**Lead Stakeholder Type:** Non-profit  
-**Timeline:** Short (1 year)  
-
-**What it is:** This initiative will create annual cultural festivals, celebrating the diversity of The Capitol's population. Activities will include art installations, performances, food fairs, and collaborative workshops, promoting the rich cultural heritage of all residents while fostering connection and solidarity.
-
-**Why here:** With its diverse cultural identity, The Capitol can benefit from initiatives that enhance community ties and celebrate its unique character, especially amid rising social tensions.
-
-**Who benefits most:** All residents, particularly immigrant and minority populations.
-
-**Quick win or deep change:** Both  
-**Estimated complexity:** Simple  
-
-
-
-### **Initiative #5: Community Resilience Hubs**
-
+### **Initiative #1: Urban Resilience Hubs**
 **Category:** Community Safety & Resilience  
+**Scale:** City-wide  
+**Lead Stakeholder Type:** Government / Public-Private Partnership  
+**Timeline:** Immediate (< 6 months)  
+
+**What it is:** This initiative establishes urban resilience hubs across The Capitol, designed to provide resources during climate emergencies. Equipped with supplies, information, and community coordination spaces, these hubs will be strategically placed to ensure accessibility for vulnerable populations.  
+
+**Why here:** Given the Capitol's reliance on elaborate energy systems and its vulnerability to climate impacts, these hubs will serve as critical safety nets, fostering resilience in a city defined by wealth disparity.  
+
+**Who benefits most:** Marginalized communities with less access to emergency resources during climate events.  
+
+**Quick win or deep change:** Quick win - the hubs can be established relatively swiftly.  
+
+**Estimated complexity:** Moderate - requires partnerships and community involvement.  
+
+
+
+### **Initiative #2: Green Mobility Network**
+**Category:** Mobility & Transportation  
+**Scale:** City-wide  
+**Lead Stakeholder Type:** Government  
+**Timeline:** Short (1 year)  
+
+**What it is:** The Green Mobility Network will enhance public transportation through the introduction of electric buses, extensive bike lanes, and pedestrian pathways, encouraging sustainable and eco-friendly commuting options across the city.  
+
+**Why here:** This initiative aligns with The Capitol’s ongoing transition to renewable energy and will provide low-cost transportation options for all residents, including those from lower-income districts.  
+
+**Who benefits most:** Daily commuters, especially from marginalized communities.  
+
+**Quick win or deep change:** Deep change - a shift in transportation culture and infrastructure is needed.  
+
+**Estimated complexity:** Complex - involves significant restructuring and investment.  
+
+
+
+### **Initiative #3: Community Art Festivals**
+**Category:** Arts, Culture & Heritage  
 **Scale:** Neighborhood  
-**Lead Stakeholder Type:** Local Government  
+**Lead Stakeholder Type:** Community Group / Non-profit  
 **Timeline:** Medium (2-3 years)  
 
-**What it is:** This initiative focuses on establishing community resilience hubs that offer resources and support during times of crisis—be it climate-related or social. They will provide emergency preparedness training, psychological support, and access to essential supplies in vulnerable neighborhoods.
+**What it is:** Initiating regular neighborhood art festivals that highlight cultural diversity through performances, art exhibitions, and food stalls showcasing the crafts and cuisines from the various districts of Panem.  
 
-**Why here:** Given the Capitol's climate vulnerabilities and social disparities, creating spaces that enhance resilience and foster community solidarity is timely and essential.
+**Why here:** This effort would foster social cohesion and celebrate the rich cultural diversity that defines The Capitol, providing a platform for all community members to share their heritage.  
 
-**Who benefits most:** Vulnerable populations in high-risk areas.
+**Who benefits most:** Local artists, small business owners, and residents seeking cultural expression.  
 
-**Quick win or deep change:** Deep change  
-**Estimated complexity:** Complex  
+**Quick win or deep change:** Quick win - can be organized with existing local talent.  
+
+**Estimated complexity:** Simple - leveraging existing community networks.  
 
 
 
-### **Initiative #6: The Green Economy Marketplace**
+### **Initiative #4: Affordable Housing Cooperative**
+**Category:** Housing & Built Environment  
+**Scale:** District  
+**Lead Stakeholder Type:** Community Group / Non-profit  
+**Timeline:** Medium (2-3 years)  
 
+**What it is:** Form a cooperative model for developing affordable housing in the Capitol where residents can invest in and manage their housing units, promoting security and stability for lower-income families.  
+
+**Why here:** The pressing issue of gentrification and rising property prices necessitates innovative housing solutions to ensure that marginalized populations are not displaced.  
+
+**Who benefits most:** Low-income families and individuals seeking stable housing options.  
+
+**Quick win or deep change:** Deep change - aims to fundamentally alter housing dynamics in The Capitol.  
+
+**Estimated complexity:** Complex - requires legal and financial frameworks to support cooperative models.  
+
+
+
+### **Initiative #5: Circular Economy Workshops**
 **Category:** Economic Development & Local Business  
 **Scale:** Neighborhood  
-**Lead Stakeholder Type:** Public-Private Partnership  
+**Lead Stakeholder Type:** Non-profit/ Community Group  
 **Timeline:** Short (1 year)  
 
-**What it is:** This initiative aims to create a marketplace for local, sustainable businesses and green start-ups, allowing residents to access eco-friendly goods and services. It will also serve as a platform for local entrepreneurs to network and collaborate.
+**What it is:** These workshops will educate and empower local businesses and residents about the principles of the circular economy, including recycling, upcycling, and sustainable practices to reduce waste and create economic opportunities.  
 
-**Why here:** With The Capitol’s growing focus on sustainability and circular economy principles, a dedicated marketplace can drive engagement and support local economic resilience.
+**Why here:** With a growing emphasis on sustainability within The Capitol, fostering local practices that support the circular economy will not only help the environment but can also empower entrepreneurs in underserved communities.  
 
-**Who benefits most:** Small business owners and conscious consumers.
+**Who benefits most:** Small business owners and residents invested in sustainability.  
 
-**Quick win or deep change:** Quick win  
-**Estimated complexity:** Simple  
+**Quick win or deep change:** Quick win - workshops can be started with minimal funding.  
+
+**Estimated complexity:** Simple - mainly requires resource persons and community engagement.  
 
 
 
-### **Initiative #7: Digital Inclusion for All**
+### **Initiative #6: Educational Mentoring Program**
+**Category:** Education & Skills  
+**Scale:** Neighborhood  
+**Lead Stakeholder Type:** Community Group  
+**Timeline:** Medium (2-3 years)  
 
-**Category:** Digital Infrastructure & Innovation  
+**What it is:** Establish a mentoring program pairing local professionals with youth from marginalized communities to provide guidance in education, career development, and life skills.  
+
+**Why here:** This will directly address the disparities in opportunities faced by lower-income youth, fostering empowerment and a pathway to success in a rapidly changing job market.  
+
+**Who benefits most:** Young people from lower-income families.  
+
+**Quick win or deep change:** Deep change - impacts youth development over the long term.  
+
+**Estimated complexity:** Moderate - requires recruitment and training of mentors.  
+
+
+
+### **Initiative #7: Urban Green Space Expansion**
+**Category:** Green Space & Environment  
 **Scale:** City-wide  
-**Lead Stakeholder Type:** Non-profit  
+**Lead Stakeholder Type:** Government / Public-Private Partnership  
 **Timeline:** Long (3+ years)  
 
-**What it is:** This initiative aims to establish accessible internet infrastructure across the Capitol, creating public Wi-Fi zones in parks and community centers while offering digital literacy courses to ensure everyone can utilize the technology effectively.
+**What it is:** Develop underutilized spaces into urban parks and community gardens, ensuring all neighborhoods, especially economically disadvantaged ones, have access to green spaces.  
 
-**Why here:** Many residents in poorer districts face barriers to accessing technology, a disparity that exacerbates social inequities and limits economic opportunities.
+**Why here:** The disparities in access to green spaces highlight a pressing need for the environmental justice principles in The Capitol, enhancing community health and well-being.  
 
-**Who benefits most:** Low-income residents and students without reliable internet.
+**Who benefits most:** All residents, particularly those in lower-income areas feeling the strain of limited green access.  
 
-**Quick win or deep change:** Both  
-**Estimated complexity:** Moderate  
+**Quick win or deep change:** Deep change - reworks urban landscapes over time.  
+
+**Estimated complexity:** Complex - involves planning, funding, and community buy-in.  
 
 
 
 ## **PORTFOLIO OVERVIEW**
 
 ### **Interconnections:**
-Initiatives like the **Cultural Convergence Festivals** and **Affordable Housing Co-ops** can work together to create a strong sense of belonging within neighborhoods, making the events inclusive and drawing more community engagement into affordable housing discussions. Additionally, **Community Resilience Hubs** can provide the support needed to build cohesiveness among various cultural groups throughout the festivals.
+1. The **Urban Resilience Hubs** can serve as central points for the **Green Mobility Network**, providing information on transportation options during climate-related events.
+2. The **Community Art Festivals** can be hosted in the new **Urban Green Spaces**, reinforcing cultural identity and fostering community spirit while promoting environmental awareness.
 
 ### **Sequencing Recommendation:**
-Starting with **Skills for the Future** is recommended, as this can immediately empower residents to seek better employment opportunities, setting a foundation for subsequent initiatives. Once residents are more skilled, the **Affordable Housing Co-ops** and **Community Resilience Hubs** can develop simultaneously to address pressing housing needs and climate vulnerabilities.
+Start with the **Urban Resilience Hubs** and **Green Mobility Network**, as these will provide immediate support for climate vulnerabilities and help establish foundational infrastructure for the other initiatives.
 
 ### **Coverage Check:**
-- Age groups served: Children, Youth, Working Age, Seniors 
-- Economic spectrum: Low-income, Middle-income, Mixed  
-- Spatial distribution: Dispersed  
+- **Age groups served:** Children, Youth, Working Age, Seniors
+- **Economic spectrum:** Low-income, Middle-income
+- **Spatial distribution:** Dispersed
 
 ### **Missing Voice:**
-While these initiatives address various community needs, the voices of local artists and cultural workers may still be overlooked, highlighting a need for specific support structures that empower these individuals within The Capitol’s vibrant creative landscape.
+The voice of specific marginalized communities, such as families affected by displacement from gentrification, might still be overlooked. Their unique challenges require targeted advocacy and support.

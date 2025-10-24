@@ -10,145 +10,150 @@ nav_order: 1
 
 ## **INITIATIVE PORTFOLIO**
 
-### **Initiative #1: Waterfront Resilience Parks**
+### **Initiative #1: Coastal Resilience Parks**
 
 **Category:** Green Space & Environment  
 **Scale:** District  
 **Lead Stakeholder Type:** Public-Private Partnership  
 **Timeline:** Medium (2-3 years)  
 
-**What it is:** This initiative focuses on transforming neglected waterfront areas into resilient parks that incorporate green infrastructure to combat flooding. These parks will feature native plants, rain gardens, and seating areas, providing a space for recreation while enhancing the city's capacity to manage stormwater.
+**What it is:** This initiative focuses on the creation of multiple coastal resilience parks along Blackwater Bay. These parks will feature natural barriers, such as wetlands and dunes, to absorb storm surges and flooding while providing recreational space for residents.  
 
-**Why here:** Given King's Landing's vulnerability to flooding from rising sea levels and heavy rains, enhancing green spaces along the waterfront not only utilizes natural solutions for stormwater management but also adds recreational value to the community.
+**Why here:** Given King's Landing's vulnerability to flooding from heavy rains and rising sea levels, these parks will mitigate risks while enhancing local green spaces. 
 
-**Who benefits most:** Residents living near Blackwater Bay, particularly those in lower-income areas that lack access to quality green spaces.
+**Who benefits most:** Residents in lower-income neighborhoods like Flea Bottom, who are most affected by floods.  
 
-**Quick win or deep change:** Systems change  
-**Estimated complexity:** Moderate  
+**Quick win or deep change:** Deep change  
 
+**Estimated complexity:** Complex  
 
+### **Initiative #2: Flood Preparedness Hub**
 
-### **Initiative #2: Artisan Markets and Craft Fairs**
-
-**Category:** Economic Development & Local Business  
-**Scale:** Neighborhood  
-**Lead Stakeholder Type:** Community Group  
-**Timeline:** Short (1 year)  
-
-**What it is:** Establish regular artisan markets and craft fairs in different neighborhoods where local artists and small businesses can showcase their products. This initiative emphasizes cultural identity and supports the local economy by promoting handmade goods.
-
-**Why here:** King’s Landing's diverse cultural heritage is well-suited for celebrating local artisans, making this initiative an effective way to highlight the richness of the community while boosting local trade.
-
-**Who benefits most:** Local artisans and small business owners, as well as residents seeking unique goods and experiences.
-
-**Quick win or deep change:** Quick win  
-**Estimated complexity:** Simple  
-
-
-
-### **Initiative #3: Neighborhood Exchange Programs**
-
-**Category:** Social Services & Health  
+**Category:** Community Safety & Resilience  
 **Scale:** Neighborhood  
 **Lead Stakeholder Type:** Non-profit  
 **Timeline:** Short (1 year)  
 
-**What it is:** This program will create platforms for residents to exchange skills, services, and resources, fostering neighborly collaboration. Activities might include workshops, tool-sharing events, and community potlucks that encourage connections.
+**What it is:** A flood preparedness hub which will serve as an information center for residents to learn about flood risks and equip them with resources and training for response and recovery during adverse weather events. 
 
-**Why here:** With strong social ties already present in King’s Landing, this initiative harnesses existing relationships to cultivate a deeper sense of community and promote resource-sharing.
+**Why here:** The historical context of flooding in King's Landing necessitates prioritizing community awareness and preparedness to reduce vulnerability. 
 
-**Who benefits most:** Low- to middle-income residents looking for support and social interaction.
+**Who benefits most:** Low-income communities with limited access to resources.  
 
 **Quick win or deep change:** Quick win  
+
 **Estimated complexity:** Simple  
 
 
 
-### **Initiative #4: Green Building Education & Workshops**
-
-**Category:** Education & Skills  
-**Scale:** City-wide  
-**Lead Stakeholder Type:** Academic Institution  
-**Timeline:** Medium (2-3 years)  
-
-**What it is:** Collaborate with local universities to create educational programs focused on sustainable building practices, targeting homeowners and developers. Workshops will cover topics from energy efficiency to circular economy practices in a hands-on manner.
-
-**Why here:** With King’s Landing's ongoing transition towards green building practices, this initiative can equip stakeholders with the necessary skills and knowledge to continue promoting sustainability in housing development.
-
-**Who benefits most:** Local builders, homeowners, and developers interested in sustainable construction.
-
-**Quick win or deep change:** Both  
-**Estimated complexity:** Moderate  
-
-
-
-### **Initiative #5: Community Resilience Hubs Creation**
-
-**Category:** Community Safety & Resilience  
-**Scale:** City-wide  
-**Lead Stakeholder Type:** Government  
-**Timeline:** Long (3+ years)  
-
-**What it is:** Develop community resilience hubs equipped with resources and training to prepare residents for climate-related events. These hubs will provide spaces for education, emergency preparedness planning, and even serve as shelters in times of crisis.
-
-**Why here:** Creating resilience hubs addresses the urgent need for disaster preparedness in King’s Landing, especially given the neighborhood’s susceptibility to flooding and the emerging focus on climate action.
-
-**Who benefits most:** Vulnerable communities, especially in areas like Flea Bottom where access to resources is limited.
-
-**Quick win or deep change:** Systems change  
-**Estimated complexity:** Complex  
-
-
-
-### **Initiative #6: Cultural Festivals and Heritage Days**
+### **Initiative #3: Rediscovering King's Traditions Festival**
 
 **Category:** Arts, Culture & Heritage  
 **Scale:** City-wide  
 **Lead Stakeholder Type:** Community Group  
-**Timeline:** Medium (2-3 years)  
+**Timeline:** Short (1 year)  
 
-**What it is:** Organize city-wide festivals that celebrate the diverse cultures within King’s Landing, showcasing traditional music, food, and arts. This initiative not only preserves cultural practices but strengthens community bonds through shared experiences.
+**What it is:** A city-wide festival focusing on the diverse cultural heritage of King's Landing through art, music, and food from local communities, encouraging residents to showcase their traditional practices. 
 
-**Why here:** Given the rich cultural mosaic of King’s Landing, these festivals can foster inclusion and appreciation among various community groups while promoting social cohesion.
+**Why here:** With over 30 ethnic groups, this festival would celebrate the cultural mosaic of the neighborhood while fostering unity and appreciation among diverse groups. 
 
-**Who benefits most:** All residents, particularly ethnic and cultural minorities who may feel underrepresented.
+**Who benefits most:** Cultural organizations and minority communities.  
 
 **Quick win or deep change:** Both  
+
 **Estimated complexity:** Moderate  
 
 
 
-### **Initiative #7: Digital Literacy Program for Small Businesses**
+### **Initiative #4: Local Business Exchange Program**
+
+**Category:** Economic Development & Local Business  
+**Scale:** Neighborhood  
+**Lead Stakeholder Type:** Private Sector  
+**Timeline:** Medium (2-3 years)  
+
+**What it is:** A program that pairs established businesses with startups and aspiring entrepreneurs in King's Landing, offering mentorship, resource sharing, and business development support.  
+ 
+**Why here:** By tapping into King's rich artisan culture and driving economic growth through shared knowledge, the initiative can strengthen community bonds while elevating local offerings. 
+
+**Who benefits most:** Small business owners and aspiring entrepreneurs.   
+
+**Quick win or deep change:** Deep change  
+
+**Estimated complexity:** Moderate  
+
+
+
+### **Initiative #5: Urban Farming Initiative**
+
+**Category:** Food Systems  
+**Scale:** Neighborhood  
+**Lead Stakeholder Type:** Community Group  
+**Timeline:** Short (1 year)  
+
+**What it is:** A grassroots project to convert underutilized public land into community gardens and urban farms that provide fresh produce to local residents, coupled with educational programs on sustainable practices. 
+
+**Why here:** Addressing food insecurity in lower-income neighborhoods like Flea Bottom, this initiative will also leverage King's diverse cultural heritage by incorporating various agricultural practices. 
+
+**Who benefits most:** Low-income families lacking access to fresh food.  
+
+**Quick win or deep change:** Quick win  
+
+**Estimated complexity:** Simple  
+
+
+
+### **Initiative #6: Smart Lantern Project**
 
 **Category:** Digital Infrastructure & Innovation  
 **Scale:** Neighborhood  
-**Lead Stakeholder Type:** Non-profit  
-**Timeline:** Short (1 year)  
+**Lead Stakeholder Type:** Public-Private Partnership  
+**Timeline:** Medium (2-3 years)  
 
-**What it is:** Launch a digital literacy program specifically tailored for small businesses in King’s Landing, providing skills training on online marketing, e-commerce, and social media engagement.
+**What it is:** Installation of solar-powered smart lanterns across neighborhoods to improve public safety during evening hours. The lanterns will include USB charging stations and Wi-Fi hotspots, creating community gathering spots.  
 
-**Why here:** Many local businesses in King's Landing could greatly benefit from digital tools to increase visibility and sales, ensuring they remain competitive in a changing economy.
+**Why here:** Enhancing safety and connectivity in the narrow alleys of King's Landing would help encourage social interaction and neighborhood cohesion, especially in higher-density areas.   
 
-**Who benefits most:** Small business owners and entrepreneurs, especially in lower-income neighborhoods.
+**Who benefits most:** Residents in under-served and dimly lit areas.   
 
-**Quick win or deep change:** Quick win  
-**Estimated complexity:** Simple  
+**Quick win or deep change:** Both  
+
+**Estimated complexity:** Moderate  
+
+
+
+### **Initiative #7: Resilient Housing Program**
+
+**Category:** Housing & Built Environment  
+**Scale:** City-wide  
+**Lead Stakeholder Type:** Government  
+**Timeline:** Long (3+ years)  
+
+**What it is:** A program supporting the construction and retrofitting of affordable housing with sustainable materials and flood-resilient designs, aiming to ensure that lower-income residents have access to safe, eco-friendly homes.  
+
+**Why here:** The rapid real estate development in King's Landing places many vulnerable communities at risk of displacement; this initiative addresses both housing challenges and environmental sustainability. 
+
+**Who benefits most:** Low-income families in need of affordable housing.   
+
+**Quick win or deep change:** Deep change  
+
+**Estimated complexity:** Complex  
 
 
 
 ## **PORTFOLIO OVERVIEW**
 
 ### **Interconnections:**
-- The **Artisan Markets and Craft Fairs** bolster the **Cultural Festivals and Heritage Days**, providing additional platforms for local creatives to showcase their work while fostering economic development.
-- The **Green Building Education & Workshops** can align seamlessly with the **Community Resilience Hubs** initiative, offering sustainable design principles that enhance resilience responses.
+1. The **Flood Preparedness Hub** can partner with the **Urban Farming Initiative** to ensure that community members are aware of resources and food availability post flooding, thus enhancing community resilience. 
+2. The **Rediscovering King's Traditions Festival** can collaborate with the **Local Business Exchange Program** to promote local artisans, providing them exposure to broader markets while celebrating cultural heritage.
 
 ### **Sequencing Recommendation:**
-Start with the **Neighborhood Exchange Programs** to build social cohesion and empower the community before rolling out the more complex initiatives like the **Community Resilience Hubs** and **Green Building Education & Workshops**, which require a solid foundation of community support and collaboration.
+Start with the **Flood Preparedness Hub**, as immediate awareness and preparedness are essential given the city's flooding risks. Promote the **Urban Farming Initiative** concurrently since establishing food security will also bolster community resilience.
 
 ### **Coverage Check:**
-- Age groups served: [Children, Youth, Working Age, Seniors]
-- Economic spectrum: [Low-income, Middle-income, Market-rate, Mixed]
-- Spatial distribution: [Concentrated in areas like Flea Bottom, but also Dispersed through various neighborhoods]
+- **Age groups served:** Children, Youth, Working Age, Seniors  
+- **Economic spectrum:** Low-income, Middle-income  
+- **Spatial distribution:** Concentrated (lower-income neighborhoods) and Disseminated (across the city for events)
 
 ### **Missing Voice:**
-The voice of the elderly and those with disabilities may still be overlooked in these initiatives, particularly regarding accessibility to programs and resources, highlighting a potential gap in ensuring that all community members can engage fully.
+The initiatives may overlook the perspectives of the elderly and disabled populations who could have specific barriers related to access and mobility; incorporating their insights would further enhance community inclusivity and sustainability.

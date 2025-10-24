@@ -12,6 +12,8 @@ DESCRIPTION
 
 Based on your analysis, provide 7 initiatives following this format. **IMPORTANT: Each initiative must be from a DIFFERENT category to ensure diversity.**
 
+**IMPORTANT: The two first initiatives MUST be initiatives that are mitigation measures for severely adverse events that are specific to that city/neighbourhood, in the context of the world they sit in.**
+
 ## **INITIATIVE PORTFOLIO**
 
 For each of the 7 initiatives, provide:
