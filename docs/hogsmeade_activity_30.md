@@ -3,7 +3,7 @@ layout: default
 title: Hogsmeade United for Climate Action
 parent: Hogsmeade
 has_children: true
-nav_order: 24
+nav_order: 30
 ---
 
 ## **PROJECT IDENTIFICATION**
@@ -22,7 +22,7 @@ Short-term (1 year)
 
 
 
-![](images/hogsmeade_activity_24.png)
+![](images/hogsmeade_activity_30.png)
 
 ### ISO37101 mapping for 'Hogsmeade community climate action initiative.'
 

@@ -3,7 +3,7 @@ layout: default
 title: Hogsmeade Green Renewal Initiative
 parent: Hogsmeade
 has_children: true
-nav_order: 26
+nav_order: 33
 ---
 
 ## **PROJECT IDENTIFICATION**
@@ -22,7 +22,7 @@ Medium-term (2-3 years)
 
 
 
-![](images/hogsmeade_activity_26.png)
+![](images/hogsmeade_activity_33.png)
 
 ### ISO37101 mapping for 'Hogsmeade sustainability-focused renovation initiative.'
 

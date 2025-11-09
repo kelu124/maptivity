@@ -3,7 +3,7 @@ layout: default
 title: Hogsmeade’s Living Roof Renaissance
 parent: Hogsmeade
 has_children: true
-nav_order: 25
+nav_order: 31
 ---
 
 ## **PROJECT IDENTIFICATION**
@@ -22,7 +22,7 @@ Medium-term (2-3 years)
 
 
 
-![](images/hogsmeade_activity_25.png)
+![](images/hogsmeade_activity_31.png)
 
 ### ISO37101 mapping for 'Hogsmeade's sustainable rooftop transformation project.'
 
