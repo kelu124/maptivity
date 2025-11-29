@@ -9,42 +9,77 @@ nav_order: 2
 
 ## How This Workshop Actually Works (No Boring Lectures, We Promise!)
 
-### Welcome to the Placemaking Maptivity – Let's Build a Better City Together! 🏙️
+### Welcome to the Placemaking Maptivity, Let's Build a Better City Together! 🏙️
 
-Think of this workshop like a massive multiplayer strategy game, but instead of conquering territories or building virtual empires, we're mapping out how to make our neighborhoods and cities actually awesome to live in. Here's how the next few hours are going to roll out:
+Think of this workshop like a massive multiplayer strategy game, but instead of conquering territories or building virtual empires, we're mapping out how to make our neighborhoods and cities actually awesome to live in. We've got 90 minutes to change the world (or at least understand it better), so here's how we'll make it happen:
 
-### **The Warm-Up Round** (20 minutes)
-First things first – we'll do a quick icebreaker so you're not sitting there awkwardly wondering who everyone is. Nothing cringe, just introductions and getting comfortable with the tools we'll use. If we're online, we'll mess around with Miro (it's like a giant digital whiteboard) to make sure everyone knows how to move stuff around. If we're in person, we'll gather around a huge map on the table.
+### **The Warm-Up Round** (15 minutes)
+First things first, we'll do a quick icebreaker so you're not sitting there awkwardly wondering who everyone is. Nothing cringe, just introductions and getting comfortable with the tools we'll use. If we're online, we'll mess around with Miro (it's like a giant digital whiteboard) to make sure everyone knows how to move stuff around. If we're in person, we'll gather around a huge map on the table. We'll also explain what we're actually doing here and why it matters.
 
-### **Level 1: Building the Game Board** (25 minutes)
-Here's where it gets interesting. You'll help create the actual game board by placing cards that represent different aspects of what makes a city work – things like transportation, education, parks, safety, and community spaces. Think of it like setting up the game map before you start playing. You'll match concept cards with their descriptions, and boom – you've just learned the framework without even realizing it.
+### **Level 1: Building the Game Board** (10 minutes)
+Here's where it gets interesting, and fast! You'll help create the actual game board by placing cards that represent different aspects of what makes a city work. Think of it like setting up a board game, but instead of properties and hotels, we're dealing with real stuff like:
+- big sustainability goals (like making our city resilient, bringing people together, using resources wisely)  
+- actual services and areas (like transport, education, parks, housing)
 
-### **Level 2: Mapping the Vision** (35 minutes)
-Now we're getting into the real game. You'll get cards that describe different vision elements – imagine these as "dream features" for your city. Your job? Figure out where they belong on the map. Does a "vibrant youth center" connect more with social cohesion or education? Maybe both? There's no single right answer, and that's the point. You'll explain your choices, debate with others, and start seeing how everything in a city is connected.
 
-### **Break Time!** (10 minutes)
-Stretch, grab a snack, check your phone – whatever you need to recharge.
+![](pictures/_creating.png)
 
-### **Level 3: Reality Check with Project Cards** (30 minutes)
-This is where we get real. You'll place cards representing actual projects and initiatives that are happening (or could happen) in your area. It's like comparing your city's wish list with what's actually being done. Spoiler alert: you'll probably notice some gaps, and that's totally okay – it's why we're here.
 
-### **Boss Level: The Impact Matrix** (25-35 minutes)
-Time to level up from just identifying problems to actually solving them. You'll brainstorm solutions and place them on a grid based on two things:
-- **Impact**: How much of a difference would this make?
-- **Feasibility**: Can we actually pull this off, or is it pie-in-the-sky thinking?
+It's a speed round, so don't overthink it, we'll figure it out together as we go!
 
-The sweet spot? High impact + highly doable = let's make it happen!
+### **Level 2: Reality Check, What's Actually Happening** (20 minutes)
+Now for the real deal. You'll get cards representing actual projects and initiatives happening in your area, think bike lanes, community gardens, youth programs, recycling initiatives, whatever. Your mission? Place them on the map where they belong. 
 
-### **The Wrap-Up** (10 minutes)
-We'll share key takeaways, and you'll get to drop your hottest take or biggest "aha!" moment from the session.
+Here's the twist: most projects hit multiple goals at once. A community garden isn't just about environment, it's also about bringing neighbors together and maybe even education. So if you think a card fits in multiple spots, speak up! This is where we start seeing how everything connects (or doesn't).
 
-### **What Makes This Different from Your Usual Workshop?**
-- **You're not just listening** – you're actively building, placing, and creating
-- **Your opinion matters** – seriously, there's no "teacher's pet" answer here
-- **It's visual** – no death by PowerPoint, just hands-on mapping
-- **You'll actually see connections** – like how a bike lane isn't just about transport, it's also about health, environment, and community
-- **It's collaborative** – you're working with people who might see things totally differently, and that's where the magic happens
 
-**Pro tip**: Don't worry about being a sustainability expert. If you live in a city or neighborhood (spoiler: you do), you're already qualified to contribute. Your perspective as someone who actually uses these spaces daily is super valuable.
+![](pictures/_doing.png)
 
-Ready to redesign your world? Let's go! 🚀
+As you place cards, explain your thinking out loud. There's no "wrong" answer here, if you can defend it, it's valid. You'll probably notice some parts of the map getting crowded while others look like ghost towns. That's not a bug, it's a feature, we're discovering where your city is killing it and where it's... not.
+
+
+### **Level 3: Fill the Gaps, Your Ideas Matter** (20 minutes)
+Okay, so we've seen what exists. Now it's your turn to be the city planner. Look at those empty spaces on the map, what's missing? What would make your neighborhood actually slap? 
+
+Grab sticky notes and start brainstorming:
+- That sketchy underpass that needs lighting? Write it down.
+- A youth center with actual stuff teens want? Add it.
+- Better bus routes that don't take 2 hours to go 3 miles? Yes please.
+- Pop-up markets for local businesses? Absolutely.
+
+Don't filter yourself, if you think it would help, write it down and slap it on the map. We want your wildest ideas AND your practical ones.
+
+### **Boss Level: The Reality Filter** (10 minutes)
+Time to get strategic. We'll take your best ideas and run them through the reality check matrix:
+- **Impact**: Will this actually make a difference or is it just nice to have?
+- **Feasibility**: Can we realistically pull this off with current resources and constraints?
+
+The sweet spot? High impact + actually doable = let's make it happen!
+But here's the thing, even "impossible" ideas are worth discussing. Today's pipe dream might be tomorrow's funded project if we figure out what would make it feasible.
+
+
+![](pictures/_feasibility.png)
+
+
+### **The Grand Finale** (15 minutes)
+This is where we pull it all together:
+- What patterns did we spot?
+- Which gaps surprised us the most?
+- What's one idea that everyone's hyped about?
+- What can we actually DO next week?
+
+You'll get to share your biggest "aha!" moment or the one thing you're taking away from this session. We'll also figure out concrete next steps, because this isn't just an exercise, it's about making real change happen.
+
+![](pictures/_closing.png)
+
+
+### **Why This Workshop Doesn't Suck**
+- **It's fast-paced**, no time to get bored
+- **It's visual**, you literally see how your city works (or doesn't)
+- **Your ideas matter**, this isn't some expert telling you what's best for your neighborhood
+- **It's real**, we're working with actual projects and actual problems
+- **You'll leave with a plan**, not just "awareness" but actual next steps
+
+**Pro tip**: Don't worry if you're not a sustainability expert or urban planning nerd. If you live, work, study, or hang out in this city, you're already an expert on what works and what doesn't. Your daily experience navigating these spaces is exactly the perspective we need.
+
+Ready to redesign your world in 90 minutes? Let's go! 🚀

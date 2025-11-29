@@ -6,97 +6,164 @@ has_children: true
 nav_order: 2
 ---
 
-## Facilitator's Guide: Running the Placemaking Maptivity Session
 
-### Your Role as Workshop Navigator
+## Facilitator's Guide: Running the 90-Minute Placemaking Maptivity
 
-As facilitator, you're the conductor of this collaborative symphony. Your job isn't to be the expert on sustainability or urban planning—it's to guide participants through a discovery process where they build understanding together. Think of yourself as a game master who keeps the energy flowing, ensures everyone participates, and helps the group connect the dots.
+### Your Role as Sprint Navigator
 
-### **Pre-Session Setup** (30 minutes before start)
-**Physical Workshop:** Arrange tables for 4-6 people per group, set up the A0 Placemaking Map, organize card decks (term cards, vision cards, project cards), and prepare sticky notes and markers.
+In this condensed 90-minute format, you're a sprint facilitator—keeping energy high, momentum constant, and ensuring everyone contributes despite the time pressure. Think of yourself as a skilled conductor leading a jazz ensemble through an energetic improvisation rather than a lengthy symphony. Every minute counts.
 
-**Online Workshop:** Test your video conferencing setup, prepare the Miro board, ensure all digital cards are properly positioned, and enable "Bring everyone to me" mode for guided navigation. Send participants the link 15 minutes early for tech checks.
+### **Pre-Session Setup** (20 minutes before start)
+**Physical Workshop:** Arrange tables for groups of 4-6, set up the Placemaking Map, pre-sort cards (term cards and project cards only—no vision cards for this version), prepare ample sticky notes and markers.
 
-### **Phase 1: Introduction & Welcome** (20 minutes)
+**Online Workshop:** Pre-load Miro board, test "Bring everyone to me" function, position all cards in starting positions, create the feasibility matrix in advance. Send link 10 minutes early for tech checks.
 
-**0:00-0:10 - Icebreaker with Purpose**
-Start sharp—don't wait for latecomers. Begin with your scripted welcome, but make it conversational. For online sessions, insist on cameras being on. Use the icebreaker as a Miro training opportunity: have participants write their name and role on sticky notes and move them to a designated area. This secretly teaches them the basic mechanics they'll need.
+### **Phase 1: Introduction & Icebreaker** (15 minutes)
 
-**0:10-0:15 - Framework Introduction**
-Explain the workshop structure without overwhelming detail. Key message: "We're mapping how different aspects of city life connect to sustainability goals." Show the two axes (sustainability purposes and action areas) but don't over-explain—they'll learn by doing.
+**0:00-0:05 - Quick Start**
+Start exactly on time—no waiting. Launch with energy: "We have 90 minutes to map your city's sustainability landscape and identify game-changing opportunities. Let's dive in."
 
-### **Phase 2: Creating the Placemaking Map** (25 minutes)
+**0:05-0:10 - Rapid Icebreaker**
+For online: Participants write name + role on sticky note and move it—this secretly teaches Miro basics.
+For in-person: Quick round-robin introductions (name + "one thing that bugs you about the city").
+Keep it snappy—use a visible timer.
 
-**0:15-0:20 - Setup**
-Activate "follow me" mode online. Explain that participants will match term cards with descriptions on the map. Emphasize there will be discussion and some "productive confusion"—that's intentional.
+**0:10-0:15 - Framework Sprint Explanation**
+Key messages to hit quickly:
+- "We're creating a map that shows how city initiatives connect to sustainability goals"
+- "Yellow axis = sustainability purposes, Purple axis = city services/areas"
+- "There are no wrong answers, only different perspectives"
+- Show the agenda with time blocks visible—set expectations for pace
 
-**0:20-0:30 - Active Facilitation**
-This is your most intensive facilitation period. Encourage participants to think aloud as they place cards. When someone places a card, ask them to explain why. If others disagree, facilitate the discussion—don't resolve it immediately. Let the group work through the logic together.
+### **Phase 2: Speed-Building the Game Board** (10 minutes)
 
-**0:30-0:40 - Synthesis**
-Guide a review of placements. Don't correct "wrong" answers unless they're wildly off—instead, ask probing questions: "What made you think this belongs here?" Focus on building shared understanding rather than perfect accuracy.
+**0:15-0:17 - Rapid Instructions**
+"You have term cards and a grid with descriptions. Match them as fast as you can—don't overthink. If you're unsure, make your best guess and keep moving."
 
-### **Phase 3: Vision Card Placement** (35 minutes)
+**0:17-0:23 - Active Card Placement**
+This is controlled chaos—embrace it. Circulate constantly. If someone's stuck, give them 10 seconds then say: "First instinct—where does it go?" If debates start, cap them at 30 seconds: "Quick decision now, we'll revisit if needed."
 
-**0:40-0:45 - Introduce the Challenge**
-Explain that vision cards can go in multiple intersections—this isn't about finding the "right" answer but exploring connections. Mention that there are duplicate cards intentionally.
+**0:23-0:25 - Lightning Review**
+No time for detailed review. Just ask: "Any cards that feel completely wrong?" Fix only the obvious mistakes. Say: "Perfect doesn't exist—good enough is great. The map is our working tool, not our final product."
 
-**0:45-1:07 - Facilitate Discovery**
-Circulate actively (or monitor breakout rooms online). Listen for interesting discussions and invite participants to share them with the group. If energy dips, prompt with questions like: "I notice lots of cards in this area—what does that tell us?"
+### **Phase 3: Mapping Current Reality** (20 minutes)
 
-**1:07-1:15 - Gap Analysis**
-This is crucial: help participants see patterns. Where are cards clustered? Where are the empty spaces? What do these gaps mean? Don't provide answers—guide them to insights.
+**0:25-0:27 - Set the Challenge**
+"These cards represent real projects in your area. Your job: show where they contribute to our sustainability map. Many projects hit multiple goals—place duplicates accordingly."
 
-### **Break** (10 minutes)
-Use this time to mentally note which participants haven't spoken much and plan to engage them in the next phase.
+**0:27-0:40 - Facilitate Rapid Mapping**
+Keep the energy up with prompts:
+- "Tell us why as you place it—20 seconds max"
+- "Anyone see a different connection? Shout it out"
+- "Notice any patterns emerging?"
 
-### **Phase 4: Project Card Placement** (30 minutes)
+If discussion gets too detailed: "Great point—hold that thought for our gaps discussion."
 
-**1:25-1:30 - Shift to Reality**
-Frame this as "moving from vision to reality." These cards represent actual or potential projects.
+**0:40-0:45 - Pattern Recognition**
+Guide quick observations: "Look at the map—what do you see?"
+- Where are cards clustering?
+- What areas are empty?
+- Any surprises?
 
-**1:30-1:47 - Facilitate Comparison**
-Help participants notice misalignments between vision and projects. This might feel uncomfortable—that's good! It's where learning happens.
+Use rapid-fire format: "One observation each, no repeats, go!"
 
-**1:47-1:55 - Critical Reflection**
-Guide discussion on why gaps exist. Avoid blame. Focus on systemic barriers and opportunities.
+### **Phase 4: Ideation Sprint** (20 minutes)
 
-### **Phase 5: Impact-Feasibility Matrix** (25-35 minutes)
+**0:45-0:47 - Shift to Solutions Mode**
+"You've seen the gaps. Now fill them. What's missing? What would transform your neighborhood? Don't filter—write everything on sticky notes."
 
-**1:55-2:05 - Brainstorming Solutions**
-Shift energy from analysis to action. Encourage wild ideas initially, then guide toward practical considerations.
+**0:47-0:57 - Brainstorm Facilitation**
+Set a visible 10-minute timer. Play energetic background music if appropriate. Encourage quantity over quality initially:
+- "No idea is too wild"
+- "Build on each other's ideas"
+- "Think about those empty spaces on our map"
 
-**2:05-2:30 - Strategic Prioritization**
-Help the group identify quick wins (high feasibility, decent impact) and moonshots (high impact, low feasibility currently). Facilitate discussion on what would make low-feasibility ideas more achievable.
+Halfway check: "5 minutes left—push for 3 more ideas each!"
 
-### **Critical Facilitation Tips**
+**0:57-0:65 - Rapid Placement & Clustering**
+"Place your ideas on the map—group similar ones together."
+As they place, have them give 10-second pitches: "What is it and why does it matter?"
 
-**Managing Dynamics:**
-- If someone dominates, gently redirect: "Great point—let's hear other perspectives."
-- If someone's silent, invite them specifically: "Alex, what's your take on this?"
-- If discussion stalls, provide prompts: "How might this connect to [specific community need]?"
+### **Phase 5: Reality Check Matrix** (10 minutes)
 
-**Time Management:**
-- Keep a visible timer
-- Give 5-minute warnings before transitions
-- Be willing to cut discussions that aren't productive—you can always return if there's time
+**0:65-0:67 - Matrix Introduction**
+"Let's get strategic. Pick your top 5-7 ideas as a group. We'll sort them by impact and feasibility."
 
-**Handling Confusion:**
-- Normalize it: "This framework is complex—confusion means you're thinking deeply."
-- Use participant explanations rather than lecturing
-- If the group is stuck, provide an example, then step back
+**0:67-0:73 - Quick Sorting**
+No lengthy debates. Use "gut feeling" sorting:
+- "High impact or low impact? Quick vote—majority wins"
+- "Feasible with current resources or needs major changes? Show of hands"
+
+Focus on the high-impact/high-feasibility quadrant: "These are your quick wins—what would it take to start one next week?"
+
+**0:73-0:75 - Capture Actions**
+"Each person: Name one idea you're willing to champion or support." Write these down visibly.
+
+### **Phase 6: Rapid Close-Out** (15 minutes)
+
+**0:75-0:80 - Group Insights**
+Structure this tightly:
+- "What's the biggest gap we discovered?" (1 minute)
+- "What's the most exciting opportunity?" (1 minute)  
+- "What surprised you?" (1 minute)
+- "What existing project could be expanded for more impact?" (2 minutes)
+
+**0:80-0:85 - Commitment Round**
+Go around quickly: "One action you'll take this week based on today." 
+Keep it specific and small: "I'll email the transport department about X" not "I'll fix public transit"
+
+**0:85-0:90 - Documentation & Next Steps**
+- Photo of the final map (physical) or screenshot (digital)
+- Share contact list for follow-up
+- Announce any follow-up sessions or channels
+- End with energy: "You just redesigned your city in 90 minutes—imagine what you'll do next!"
+
+### **Critical Speed-Facilitation Techniques**
+
+**Time Management (Your #1 Priority):**
+- Use a visible countdown timer for EVERY activity
+- Give 2-minute warnings before transitions
+- Cut discussions mid-sentence if needed: "Great discussion—we need to capture it and move on"
+- Have a "parking lot" for ideas that need more time
 
 **Energy Management:**
-- Read the room—if energy drops, inject movement or paired discussions
-- Use humor appropriately
-- Celebrate insights enthusiastically
+- Stand up and move around (you and them)
+- Change voice pace and volume to maintain attention
+- Use rapid-fire rounds to prevent energy drops
+- If energy dips, do a 30-second stretch or movement break
 
-### **Your Success Metrics**
+**Participation Balance in Speed Mode:**
+- Use "popcorn" style for quick inputs (person picks next speaker)
+- Implement "no one speaks twice until everyone speaks once" for rounds
+- Have quiet participants place cards/ideas first
+- Use hand signals for quick votes/agreement
+
+**Managing the Chaos:**
+- Embrace productive messiness—perfection is the enemy
+- When multiple conversations start, clap or ring a bell to refocus
+- If technical issues arise online, have a backup person handle them while you continue
+- Keep a "questions for later" list visible
+
+### **Your Success Metrics for 90 Minutes**
+
 You've succeeded when:
-- Everyone has contributed at least twice
-- Participants are explaining concepts to each other
-- The group has identified specific, actionable next steps
-- People leave energized rather than overwhelmed
-- Connections across sectors/departments have been made visible
+- The map has both dense areas and visible gaps
+- At least 10 new ideas are generated
+- Everyone has contributed at least 3 times
+- You have 3-5 concrete next steps with named champions
+- Participants leave energized, not exhausted
+- The group has made connections they didn't see before
 
-Remember: You're facilitating discovery, not teaching. Trust the process, trust the participants, and trust that insights will emerge from the collective intelligence in the room.
+### **Emergency Protocols**
+
+**If running behind:**
+- Skip the detailed review of board setup
+- Reduce ideation to 15 minutes
+- Combine feasibility with close-out
+
+**If running ahead (rare but possible):**
+- Spend more time on feasibility planning
+- Add a "partnership mapping" round (who could help with each idea?)
+- Do a deeper dive on implementation steps
+
+Remember: In this sprint format, momentum is everything. Keep it moving, keep it energetic, and trust that insights will emerge from the rapid interactions. Your role is to create organized chaos that leads to breakthrough thinking. Perfect analysis isn't the goal—sparking action is.

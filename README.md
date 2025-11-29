@@ -65,9 +65,7 @@ cannot be held responsible for any use that may be made of the information conta
 
 # Acknowledgements
 
-We gratefully acknowledge the funding support of the European Union
-Horizon 2020 research project PROBONO under grant agreement no.
-101037075. Thank you to the PROBONO team.
+We gratefully acknowledge the funding support of the European Union Horizon 2020 research project PROBONO under grant agreement no. 101037075. Thank you to the PROBONO team.
 
 # License
 
