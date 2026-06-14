@@ -62,10 +62,7 @@ This project has received funding from the European Union’s Horizon 2020 Europ
 under Grant Agreement No 101037075. This output reflects only the authors’ view, and the European Union
 cannot be held responsible for any use that may be made of the information contained therein.
 
-
-# Acknowledgements
-
-We gratefully acknowledge the funding support of the European Union Horizon 2020 research project PROBONO under grant agreement no. 101037075. Thank you to the PROBONO team.
+Thank you to the PROBONO team.
 
 # License
 
