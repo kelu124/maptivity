@@ -48,7 +48,7 @@ It empowers communities to understand their systems, connect their actions, and 
 
 Following a game session, people will have place activitie and visions for their neighbourhoods. Here is an example of a report that could be generated automatically to summarize the outcomes of the session.
 
-![](images/gotham_review.png)
+![](custom/gotham.png)
 
 On this map, **stars** represent the Vision of the Place, and Circles represent Activities proposed to improve the sustainability of the neighbourhood.
 
